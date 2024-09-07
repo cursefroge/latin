@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Schaeffer's Latin</title>
+        <script
+            defer
+            src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"
+        ></script>
+        <script src="https://cdn.tailwindcss.com"></script>
+    </head>
+    <body class="bg-gray-100 text-gray-900 dark:bg-black">
+        <header
+            class="bg-blue-600 text-white p-4 flex items-center justify-between"
+            x-data="{ searchQuery: '' }"
+        >
+            <h1 class="text-2xl">Schaeffer's Latin</h1>
+            <div class="flex items-center space-x-2">
+                <label for="onlySearched" class="text-white"
+                    >Filter to search</label
+                >
+                <input
+                    id="onlySearched"
+                    type="checkbox"
+                    x-on:click="toggleFilter()"
+                />
+                <input
+                    type="search"
+                    class="p-2 rounded text-black"
+                    placeholder="Search..."
+                    x-model="searchQuery"
+                />
+                <button class="p-2 bg-blue-800 rounded" @click="searchWord">
+                    Search
+                </button>
+            </div>
+        </header>
+        <main
+            class="p-4"
+            x-data="{ words: {} }"
+            x-init="fetch('words.json')
+                .then(response => response.json())
+                .then(data => words = data)"
+        >
+            <section
+                class="bg-white shadow-md rounded p-4 mb-4 dark:bg-black dark:text-white"
+            >
+                <h2 class="text-xl font-bold mb-2">Latin Words</h2>
+                <template x-for="(word, key) in words" :key="key">
+                    <div
+                        :id="key"
+                        :data-derivatives="word.derivatives.join(', ')"
+                        class="mb-4 word-item"
+                    >
+                        <h3
+                            class="text-lg font-semibold"
+                            x-text="(key.charAt(0).toUpperCase() + key.slice(1)).replace(/[0-9]/g, '');"
+                        ></h3>
+                        <p>
+                            <strong>Definition:</strong>
+                            <span x-text="word.meaning"></span>
+                        </p>
+                        <p>
+                            <strong>Derivatives:</strong>
+                            <span x-text="word.derivatives.join(', ')"></span>
+                        </p>
+                    </div>
+                </template>
+            </section>
+        </main>
+        <footer class="bg-blue-600 text-white p-4 text-center">
+            <p>
+                made by
+                <a class="text-zinc-400" href="https://github.com/theptnt"
+                    >theptnt</a
+                >
+                and
+                <a class="text-zinc-400" href="https://curseforged.dev"
+                    >cursefroge</a
+                >
+            </p>
+        </footer>
+        <script>
+            function toggleFilter() {
+                // toggles always showing all words or only searched words
+                const wordElements = document.querySelectorAll(".word-item");
+                const checked = document.querySelector(
+                    'input[type="checkbox"]',
+                ).checked;
+                // if checked, show only searched words
+                if (checked) {
+                    wordElements.forEach((element) => {
+                        element.style.display = "none";
+                    });
+                } else {
+                    wordElements.forEach((element) => {
+                        element.style.display = "block";
+                    });
+                }
+            }
+
+            function searchWord() {
+                const query = document
+                    .querySelector('input[type="search"]')
+                    .value.toLowerCase();
+                const wordElements = document.querySelectorAll(".word-item");
+                const filterMode = document.querySelector(
+                    'input[type="checkbox"]',
+                ).checked;
+                let found = false;
+
+                wordElements.forEach((element) => {
+                    const key = element.id.toLowerCase().replace(/[0-9]/g, "");
+                    const derivatives = element
+                        .getAttribute("data-derivatives")
+                        .toLowerCase()
+                        .split(", ");
+
+                    if (filterMode) {
+                        if (
+                            key.startsWith(query) ||
+                            derivatives.some((d) => d.startsWith(query))
+                        ) {
+                            element.style.display = "block";
+                            found = true;
+                        } else {
+                            element.style.display = "none";
+                        }
+                    } else {
+                        if (key === query || derivatives.includes(query)) {
+                            element.scrollIntoView({ behavior: "smooth" });
+                            found = true;
+                        }
+                    }
+                });
+
+                if (!found && !filterMode) {
+                    alert("Word not found");
+                }
+            }
+        </script>
+    </body>
+</html>
