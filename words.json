@@ -1,14 +1,8603 @@
 {
-  "fard": {
-    "meaning": "to fargle one's pants",
-    "derivatives": ["fardling", "fardled"]
-  },
-  "fard2": {
-    "meaning": "to fargle one's pantserewfrtsdg",
-    "derivatives": ["fardlindfggg", "fardledfgdfgd"]
-  },
-  "lard": {
-  	"meaning": "to lar",
-  	"derivatives": ["FAREL"]
-  }
+    "abdomen": {
+        "meaning": "abdomen",
+        "derivatives": [
+            "abdominal"
+        ]
+    },
+    "aboleo": {
+        "meaning": "to destroy",
+        "derivatives": [
+            "abolish"
+        ]
+    },
+    "aceo": {
+        "meaning": "to be sour",
+        "derivatives": [
+            "acetic",
+            "acid"
+        ]
+    },
+    "acer": {
+        "meaning": "sharp",
+        "derivatives": [
+            "acrid",
+            "acrimonious",
+            "eager"
+        ]
+    },
+    "acuo": {
+        "meaning": "to sharpen",
+        "derivatives": [
+            "acumen",
+            "acute",
+            "ague",
+            "cute"
+        ]
+    },
+    "acus": {
+        "meaning": "needle",
+        "derivatives": [
+            "eglantine"
+        ]
+    },
+    "adulor": {
+        "meaning": "to flatter",
+        "derivatives": [
+            "adulation"
+        ]
+    },
+    "aemulus": {
+        "meaning": "rivalling",
+        "derivatives": [
+            "emulate"
+        ]
+    },
+    "aequus": {
+        "meaning": "equal",
+        "derivatives": [
+            "adequate",
+            "equal",
+            "iniquity"
+        ]
+    },
+    "aes": {
+        "meaning": "bronze",
+        "derivatives": [
+            "era"
+        ]
+    },
+    "aestimo": {
+        "meaning": "to reckon",
+        "derivatives": [
+            "aim",
+            "esteem",
+            "estimate"
+        ]
+    },
+    "aestus": {
+        "meaning": "tide",
+        "derivatives": [
+            "estuary"
+        ]
+    },
+    "aevum": {
+        "meaning": "age",
+        "derivatives": [
+            "age",
+            "eternal"
+        ]
+    },
+    "ager": {
+        "meaning": "field",
+        "derivatives": [
+            "agrarian",
+            "agriculture",
+            "peregrination",
+            "pilgrim"
+        ]
+    },
+    "agger": {
+        "meaning": "heap",
+        "derivatives": [
+            "exaggerate"
+        ]
+    },
+    "ago": {
+        "meaning": "to do",
+        "derivatives": [
+            "act",
+            "activity",
+            "actual",
+            "agent",
+            "agile",
+            "agitate",
+            "ambiguous",
+            "assay",
+            "coagulate",
+            "cogent",
+            "cogitate",
+            "essay",
+            "exact",
+            "examine",
+            "exigent",
+            "prodigal",
+            "squat"
+        ]
+    },
+    "aio": {
+        "meaning": "to say",
+        "derivatives": [
+            "adage"
+        ]
+    },
+    "ala": {
+        "meaning": "wing",
+        "derivatives": [
+            "aisle"
+        ]
+    },
+    "alacer": {
+        "meaning": "swift",
+        "derivatives": [
+            "alacrity"
+        ]
+    },
+    "albus": {
+        "meaning": "white",
+        "derivatives": [
+            "albino",
+            "albumen",
+            "auburn",
+            "daub"
+        ]
+    },
+    "alius": {
+        "meaning": "another",
+        "derivatives": [
+            "alien"
+        ]
+    },
+    "alo": {
+        "meaning": "to nourish",
+        "derivatives": [
+            "adolescent",
+            "adult",
+            "aliment",
+            "alimony",
+            "coalesce",
+            "coalition"
+        ]
+    },
+    "alter": {
+        "meaning": "other",
+        "derivatives": [
+            "adultery",
+            "alter",
+            "altercation",
+            "alternate",
+            "altruistic",
+            "subaltern"
+        ]
+    },
+    "altus": {
+        "meaning": "high",
+        "derivatives": [
+            "altar",
+            "altitude",
+            "alto",
+            "enhance",
+            "exalt",
+            "haughty",
+            "haut",
+            "oboe"
+        ]
+    },
+    "alumen": {
+        "meaning": "alum",
+        "derivatives": [
+            "aluminum"
+        ]
+    },
+    "amarus": {
+        "meaning": "sour",
+        "derivatives": [
+            "maraschino"
+        ]
+    },
+    "ambulo": {
+        "meaning": "to walk",
+        "derivatives": [
+            "amble",
+            "ambulance",
+            "perambulator",
+            "preamble"
+        ]
+    },
+    "amicus": {
+        "meaning": "friend",
+        "derivatives": [
+            "amicable",
+            "enemy",
+            "enmity",
+            "inimical"
+        ]
+    },
+    "amita": {
+        "meaning": "aunt",
+        "derivatives": [
+            "aunt"
+        ]
+    },
+    "amo": {
+        "meaning": "to love",
+        "derivatives": [
+            "amateur",
+            "amatory",
+            "amorous",
+            "amour",
+            "enamor",
+            "paramour"
+        ]
+    },
+    "amoenus": {
+        "meaning": "pleasant",
+        "derivatives": [
+            "amenity"
+        ]
+    },
+    "amplus": {
+        "meaning": "spacious",
+        "derivatives": [
+            "ample"
+        ]
+    },
+    "amuletum": {
+        "meaning": "amulet",
+        "derivatives": [
+            "amulet"
+        ]
+    },
+    "ango": {
+        "meaning": "to torment",
+        "derivatives": [
+            "anguish"
+        ]
+    },
+    "angulus": {
+        "meaning": "angle",
+        "derivatives": [
+            "angle"
+        ]
+    },
+    "anima": {
+        "meaning": "soul",
+        "derivatives": [
+            "animal",
+            "animate"
+        ]
+    },
+    "animus": {
+        "meaning": "mind",
+        "derivatives": [
+            "animadversion",
+            "animosity"
+        ]
+    },
+    "annus": {
+        "meaning": "year",
+        "derivatives": [
+            "annal",
+            "annual",
+            "annuity",
+            "perennial"
+        ]
+    },
+    "ante": {
+        "meaning": "before",
+        "derivatives": [
+            "ancient",
+            "anterior"
+        ]
+    },
+    "antiquus": {
+        "meaning": "old",
+        "derivatives": [
+            "antique",
+            "antics"
+        ]
+    },
+    "anus": {
+        "meaning": "anus",
+        "derivatives": [
+            "anal"
+        ]
+    },
+    "anxius": {
+        "meaning": "anxious",
+        "derivatives": [
+            "anxiety"
+        ]
+    },
+    "aperio": {
+        "meaning": "to open",
+        "derivatives": [
+            "aperture",
+            "overt",
+            "overture",
+            "pert"
+        ]
+    },
+    "appello (appellare)": {
+        "meaning": "to call",
+        "derivatives": [
+            "appeal"
+        ]
+    },
+    "aptus": {
+        "meaning": "fitted",
+        "derivatives": [
+            "adapt",
+            "adept",
+            "apt",
+            "attitude",
+            "couple",
+            "lariat"
+        ]
+    },
+    "aqua": {
+        "meaning": "water",
+        "derivatives": [
+            "aquatic",
+            "aqueous",
+            "ewer",
+            "sewer"
+        ]
+    },
+    "aquila": {
+        "meaning": "eagle",
+        "derivatives": [
+            "aquiline",
+            "eagle"
+        ]
+    },
+    "arbitror": {
+        "meaning": "to judge",
+        "derivatives": [
+            "arbitrary",
+            "arbitrate"
+        ]
+    },
+    "arca": {
+        "meaning": "box",
+        "derivatives": [
+            "ark"
+        ]
+    },
+    "arceo": {
+        "meaning": "to enclose",
+        "derivatives": [
+            "coerce",
+            "exercise"
+        ]
+    },
+    "arcus": {
+        "meaning": "bow",
+        "derivatives": [
+            "arc",
+            "arcade",
+            "arch",
+            "archery"
+        ]
+    },
+    "ardeo": {
+        "meaning": "to burn",
+        "derivatives": [
+            "ardent",
+            "arson"
+        ]
+    },
+    "arduus": {
+        "meaning": "steep",
+        "derivatives": [
+            "arduous"
+        ]
+    },
+    "areo": {
+        "meaning": "to be dry",
+        "derivatives": [
+            "arid"
+        ]
+    },
+    "argentum": {
+        "meaning": "silver",
+        "derivatives": [
+            "argent"
+        ]
+    },
+    "arguo": {
+        "meaning": "to show",
+        "derivatives": [
+            "argue"
+        ]
+    },
+    "arma": {
+        "meaning": "weapons",
+        "derivatives": [
+            "alarm",
+            "arm",
+            "armada",
+            "armadillo",
+            "armor",
+            "army"
+        ]
+    },
+    "aro": {
+        "meaning": "to plow",
+        "derivatives": [
+            "arable"
+        ]
+    },
+    "ars": {
+        "meaning": "skill",
+        "derivatives": [
+            "art",
+            "artillery",
+            "inert",
+            "inertia"
+        ]
+    },
+    "artus": {
+        "meaning": "joint",
+        "derivatives": [
+            "article",
+            "articulate"
+        ]
+    },
+    "as": {
+        "meaning": "as (type of coin)",
+        "derivatives": [
+            "ace"
+        ]
+    },
+    "asinus": {
+        "meaning": "donkey",
+        "derivatives": [
+            "asinine",
+            "ass",
+            "easel"
+        ]
+    },
+    "asper": {
+        "meaning": "rough",
+        "derivatives": [
+            "exasperation"
+        ]
+    },
+    "astus": {
+        "meaning": "cunning (n.)",
+        "derivatives": [
+            "astute"
+        ]
+    },
+    "atrox": {
+        "meaning": "fierce",
+        "derivatives": [
+            "atrocity"
+        ]
+    },
+    "audeo": {
+        "meaning": "to dare",
+        "derivatives": [
+            "audacious"
+        ]
+    },
+    "audio": {
+        "meaning": "to hear",
+        "derivatives": [
+            "audible",
+            "audience",
+            "audit",
+            "obedient",
+            "obey"
+        ]
+    },
+    "augeo": {
+        "meaning": "to increase",
+        "derivatives": [
+            "auction",
+            "augment",
+            "august",
+            "author",
+            "authority"
+        ]
+    },
+    "augur": {
+        "meaning": "augur",
+        "derivatives": [
+            "augury",
+            "inaugural"
+        ]
+    },
+    "auris": {
+        "meaning": "ear",
+        "derivatives": [
+            "auricular"
+        ]
+    },
+    "aurum": {
+        "meaning": "gold",
+        "derivatives": [
+            "aureole",
+            "oriole"
+        ]
+    },
+    "ausculto": {
+        "meaning": "to heed",
+        "derivatives": [
+            "scout"
+        ]
+    },
+    "autumnus": {
+        "meaning": "autumn",
+        "derivatives": [
+            "autumn"
+        ]
+    },
+    "auxilium": {
+        "meaning": "help",
+        "derivatives": [
+            "auxiliary"
+        ]
+    },
+    "aveo": {
+        "meaning": "to desire",
+        "derivatives": [
+            "avarice",
+            "avid"
+        ]
+    },
+    "avis": {
+        "meaning": "bird",
+        "derivatives": [
+            "aviary",
+            "aviation"
+        ]
+    },
+    "avus": {
+        "meaning": "uncle",
+        "derivatives": [
+            "uncle"
+        ]
+    },
+    "axis": {
+        "meaning": "axis",
+        "derivatives": [
+            "axial"
+        ]
+    },
+    "baca": {
+        "meaning": "berry",
+        "derivatives": [
+            "bayberry"
+        ]
+    },
+    "baculum": {
+        "meaning": "stick",
+        "derivatives": [
+            "bacillus"
+        ]
+    },
+    "badius": {
+        "meaning": "chestnut-colored",
+        "derivatives": [
+            "baize"
+        ]
+    },
+    "baiulus": {
+        "meaning": "porter",
+        "derivatives": [
+            "bail",
+            "bailiff"
+        ]
+    },
+    "balteus": {
+        "meaning": "belt",
+        "derivatives": [
+            "belt"
+        ]
+    },
+    "barba": {
+        "meaning": "beard",
+        "derivatives": [
+            "barbed",
+            "barber"
+        ]
+    },
+    "battuo": {
+        "meaning": "to beat",
+        "derivatives": [
+            "abate",
+            "battalion",
+            "batter",
+            "battery",
+            "battle",
+            "combat",
+            "debate",
+            "rebate"
+        ]
+    },
+    "bellus": {
+        "meaning": "beautiful",
+        "derivatives": [
+            "beautiful",
+            "beau",
+            "embellish"
+        ]
+    },
+    "bellum": {
+        "meaning": "war",
+        "derivatives": [
+            "duel",
+            "rebel",
+            "revel"
+        ]
+    },
+    "beo": {
+        "meaning": "to bless",
+        "derivatives": [
+            "beatific"
+        ]
+    },
+    "bestia": {
+        "meaning": "beast",
+        "derivatives": [
+            "beast"
+        ]
+    },
+    "beta": {
+        "meaning": "beet",
+        "derivatives": [
+            "beet"
+        ]
+    },
+    "bibo": {
+        "meaning": "to drink",
+        "derivatives": [
+            "beverage",
+            "bib",
+            "imbibe"
+        ]
+    },
+    "bilis": {
+        "meaning": "bile",
+        "derivatives": [
+            "bile"
+        ]
+    },
+    "bis": {
+        "meaning": "twice",
+        "derivatives": [
+            "billion",
+            "combine"
+        ]
+    },
+    "bitumen": {
+        "meaning": "pitch",
+        "derivatives": [
+            "bituminous"
+        ]
+    },
+    "blandus": {
+        "meaning": "bland",
+        "derivatives": [
+            "bland"
+        ]
+    },
+    "bonus": {
+        "meaning": "good",
+        "derivatives": [
+            "bonanza",
+            "bonbon",
+            "bonny",
+            "boon",
+            "bounty",
+            "debonair"
+        ]
+    },
+    "bos": {
+        "meaning": "cow",
+        "derivatives": [
+            "beef",
+            "bugle"
+        ]
+    },
+    "botulus": {
+        "meaning": "sausage",
+        "derivatives": [
+            "bowel"
+        ]
+    },
+    "braca": {
+        "meaning": "trousers",
+        "derivatives": [
+            "bracket"
+        ]
+    },
+    "bractea": {
+        "meaning": "veneer",
+        "derivatives": [
+            "bract"
+        ]
+    },
+    "brevis": {
+        "meaning": "short",
+        "derivatives": [
+            "abbreviate",
+            "brief"
+        ]
+    },
+    "brutus": {
+        "meaning": "heavy",
+        "derivatives": [
+            "brutal"
+        ]
+    },
+    "bucca": {
+        "meaning": "cheek",
+        "derivatives": [
+            "buckle"
+        ]
+    },
+    "bulla": {
+        "meaning": "bubble",
+        "derivatives": [
+            "bill",
+            "billet",
+            "boil",
+            "bouillon",
+            "budge",
+            "bullet",
+            "bulletin",
+            "bullion"
+        ]
+    },
+    "buteo": {
+        "meaning": "hawk",
+        "derivatives": [
+            "buzzard"
+        ]
+    },
+    "caballus": {
+        "meaning": "horse",
+        "derivatives": [
+            "cavalier",
+            "cavalry",
+            "chevalier",
+            "chivalrous"
+        ]
+    },
+    "cadaver": {
+        "meaning": "corpse",
+        "derivatives": [
+            "cadaverous"
+        ]
+    },
+    "cado": {
+        "meaning": "to fall",
+        "derivatives": [
+            "accident",
+            "cadence",
+            "cascade",
+            "case",
+            "casual",
+            "chance",
+            "cheat",
+            "chute",
+            "coincidence",
+            "decadence",
+            "decay",
+            "deciduous",
+            "incident",
+            "occasion",
+            "occidental"
+        ]
+    },
+    "caedo": {
+        "meaning": "to cut",
+        "derivatives": [
+            "cement",
+            "chisel",
+            "circumcise",
+            "concise",
+            "decide",
+            "incisive",
+            "indecision",
+            "precise",
+            "scissors"
+        ]
+    },
+    "caelebs": {
+        "meaning": "unmarried",
+        "derivatives": [
+            "celibacy"
+        ]
+    },
+    "caelum": {
+        "meaning": "sky",
+        "derivatives": [
+            "ceiling",
+            "celestial",
+            "cerulean"
+        ]
+    },
+    "caerimonia": {
+        "meaning": "ceremony",
+        "derivatives": [
+            "ceremony"
+        ]
+    },
+    "Caesar": {
+        "meaning": "Caesar",
+        "derivatives": [
+            "czar",
+            "tsar"
+        ]
+    },
+    "calamitas": {
+        "meaning": "disaster",
+        "derivatives": [
+            "calamity"
+        ]
+    },
+    "caleo": {
+        "meaning": "to be warm",
+        "derivatives": [
+            "calorie",
+            "cauldron",
+            "chowder",
+            "coddle",
+            "nonchalant",
+            "scald"
+        ]
+    },
+    "calix": {
+        "meaning": "chalice",
+        "derivatives": [
+            "chalice"
+        ]
+    },
+    "callum": {
+        "meaning": "hard skin",
+        "derivatives": [
+            "callous"
+        ]
+    },
+    "calo": {
+        "meaning": "to call",
+        "derivatives": [
+            "calendar",
+            "conciliation",
+            "council",
+            "reconcile"
+        ]
+    },
+    "calvor": {
+        "meaning": "to deceive",
+        "derivatives": [
+            "calumny",
+            "challenge"
+        ]
+    },
+    "calvus": {
+        "meaning": "bald",
+        "derivatives": [
+            "callow"
+        ]
+    },
+    "calx (heel)": {
+        "meaning": "heel",
+        "derivatives": [
+            "calk",
+            "cockatrice",
+            "inculcate",
+            "recalcitrant"
+        ]
+    },
+    "calx (chalk)": {
+        "meaning": "chalk",
+        "derivatives": [
+            "calcite",
+            "calcium",
+            "calculate",
+            "calk",
+            "chalk"
+        ]
+    },
+    "cambio": {
+        "meaning": "to exchange",
+        "derivatives": [
+            "change"
+        ]
+    },
+    "campus": {
+        "meaning": "field",
+        "derivatives": [
+            "camp",
+            "campaign",
+            "champion",
+            "scamp"
+        ]
+    },
+    "cancelli": {
+        "meaning": "lattice",
+        "derivatives": [
+            "cancel",
+            "chancel",
+            "chancellor",
+            "chancery"
+        ]
+    },
+    "cancer": {
+        "meaning": "crab",
+        "derivatives": [
+            "canker"
+        ]
+    },
+    "candeo": {
+        "meaning": "to shine",
+        "derivatives": [
+            "candid",
+            "candidate",
+            "candle",
+            "chandelier",
+            "incandescent"
+        ]
+    },
+    "canis": {
+        "meaning": "dog",
+        "derivatives": [
+            "canary",
+            "canine",
+            "kennel"
+        ]
+    },
+    "cano": {
+        "meaning": "to sing",
+        "derivatives": [
+            "accent",
+            "cantata",
+            "canto",
+            "chant",
+            "charm",
+            "enchant",
+            "incentive",
+            "recant"
+        ]
+    },
+    "caper": {
+        "meaning": "goat",
+        "derivatives": [
+            "cab",
+            "caper"
+        ]
+    },
+    "capillus": {
+        "meaning": "hair",
+        "derivatives": [
+            "capillary"
+        ]
+    },
+    "capio": {
+        "meaning": "to take",
+        "derivatives": [
+            "accept",
+            "anticipate",
+            "cable",
+            "capacity",
+            "caption",
+            "capture",
+            "catch",
+            "cater",
+            "chase",
+            "conceit",
+            "conceive",
+            "deceive",
+            "exception",
+            "imperceptible",
+            "incapacitate",
+            "inception",
+            "incipient",
+            "inconceivable",
+            "intercept",
+            "irrecoverable",
+            "misconceive",
+            "occupy",
+            "perceive",
+            "precept",
+            "purchase",
+            "receipt",
+            "receive",
+            "recipe",
+            "recipient",
+            "recover",
+            "recuperate",
+            "susceptible"
+        ]
+    },
+    "capo": {
+        "meaning": "castrated male chicken",
+        "derivatives": [
+            "capon"
+        ]
+    },
+    "capsa": {
+        "meaning": "box",
+        "derivatives": [
+            "bookcase",
+            "caisson",
+            "capsule",
+            "case",
+            "cash",
+            "casket",
+            "chassis",
+            "encase"
+        ]
+    },
+    "caput": {
+        "meaning": "head",
+        "derivatives": [
+            "achieve",
+            "cabbage",
+            "cadet",
+            "capital",
+            "capitalize",
+            "capitol",
+            "capitulate",
+            "captain",
+            "cattle",
+            "chapter",
+            "chattel",
+            "chef",
+            "chief",
+            "mischief",
+            "precipice",
+            "precipitate"
+        ]
+    },
+    "carbo": {
+        "meaning": "coal",
+        "derivatives": [
+            "carbohydrate",
+            "carbon",
+            "carbuncle",
+            "carburetor"
+        ]
+    },
+    "cardo": {
+        "meaning": "hinge",
+        "derivatives": [
+            "cardinal"
+        ]
+    },
+    "carduus": {
+        "meaning": "artichoke",
+        "derivatives": [
+            "chard"
+        ]
+    },
+    "careo": {
+        "meaning": "to lack",
+        "derivatives": [
+            "caste",
+            "castigate",
+            "chaste",
+            "chastise",
+            "incest"
+        ]
+    },
+    "carina": {
+        "meaning": "keel",
+        "derivatives": [
+            "careen"
+        ]
+    },
+    "caro": {
+        "meaning": "flesh",
+        "derivatives": [
+            "carnage",
+            "carnation",
+            "carrion"
+        ]
+    },
+    "carpentum": {
+        "meaning": "carriage",
+        "derivatives": [
+            "carpenter"
+        ]
+    },
+    "carpo": {
+        "meaning": "to pluck",
+        "derivatives": [
+            "carpet",
+            "excerpt",
+            "scarce"
+        ]
+    },
+    "carrus": {
+        "meaning": "wagon",
+        "derivatives": [
+            "car",
+            "career",
+            "cargo",
+            "caricature",
+            "carriage",
+            "carrier",
+            "carry",
+            "charge",
+            "chariot"
+        ]
+    },
+    "cartilago": {
+        "meaning": "cartilage",
+        "derivatives": [
+            "cartilage"
+        ]
+    },
+    "carus": {
+        "meaning": "dear",
+        "derivatives": [
+            "caress",
+            "charity",
+            "cherish"
+        ]
+    },
+    "casa": {
+        "meaning": "house",
+        "derivatives": [
+            "casino"
+        ]
+    },
+    "caseus": {
+        "meaning": "cheese",
+        "derivatives": [
+            "cheese"
+        ]
+    },
+    "castrum (castra)": {
+        "meaning": "castle",
+        "derivatives": [
+            "castle",
+            "chateau"
+        ]
+    },
+    "catena": {
+        "meaning": "chain",
+        "derivatives": [
+            "chain"
+        ]
+    },
+    "catinus": {
+        "meaning": "bowl",
+        "derivatives": [
+            "kettle"
+        ]
+    },
+    "cauda": {
+        "meaning": "tail",
+        "derivatives": [
+            "coward"
+        ]
+    },
+    "caudex": {
+        "meaning": "tree trunk",
+        "derivatives": [
+            "code"
+        ]
+    },
+    "caulis": {
+        "meaning": "stalk",
+        "derivatives": [
+            "kale"
+        ]
+    },
+    "causa": {
+        "meaning": "reason",
+        "derivatives": [
+            "accusative",
+            "accuse",
+            "because",
+            "cause",
+            "excuse"
+        ]
+    },
+    "caveo": {
+        "meaning": "to beware",
+        "derivatives": [
+            "caution"
+        ]
+    },
+    "cavillor": {
+        "meaning": "to mock",
+        "derivatives": [
+            "cavil"
+        ]
+    },
+    "cavus": {
+        "meaning": "hollow",
+        "derivatives": [
+            "cage",
+            "cave",
+            "cavity",
+            "decoy",
+            "excavate",
+            "jail"
+        ]
+    },
+    "cedo": {
+        "meaning": "to yield",
+        "derivatives": [
+            "abscess",
+            "accede",
+            "access",
+            "ancestor",
+            "antecedent",
+            "cease",
+            "cede",
+            "deceased",
+            "exceed",
+            "incessant",
+            "incessantly",
+            "intercede",
+            "necessary",
+            "precede",
+            "proceed",
+            "recede",
+            "secede",
+            "succeed"
+        ]
+    },
+    "celeber": {
+        "meaning": "crowded",
+        "derivatives": [
+            "celebrate"
+        ]
+    },
+    "celer": {
+        "meaning": "swift",
+        "derivatives": [
+            "accelerate",
+            "celerity"
+        ]
+    },
+    "cella": {
+        "meaning": "hut",
+        "derivatives": [
+            "cell",
+            "cellar"
+        ]
+    },
+    "celo": {
+        "meaning": "to hide",
+        "derivatives": [
+            "conceal",
+            "occult"
+        ]
+    },
+    "cello": {
+        "meaning": "to rise high",
+        "derivatives": [
+            "excel",
+            "excellence"
+        ]
+    },
+    "censeo": {
+        "meaning": "to think",
+        "derivatives": [
+            "censorship",
+            "censure",
+            "excise"
+        ]
+    },
+    "centum": {
+        "meaning": "hundred",
+        "derivatives": [
+            "cent",
+            "century",
+            "percent"
+        ]
+    },
+    "cera": {
+        "meaning": "wax",
+        "derivatives": [
+            "cerement"
+        ]
+    },
+    "cerebrum": {
+        "meaning": "brain",
+        "derivatives": [
+            "cerebral"
+        ]
+    },
+    "Ceres": {
+        "meaning": "Ceres",
+        "derivatives": [
+            "cereal"
+        ]
+    },
+    "cerno": {
+        "meaning": "to separate",
+        "derivatives": [
+            "certain",
+            "concern",
+            "concert",
+            "decree",
+            "discern",
+            "discreet",
+            "discretion",
+            "discriminate",
+            "excrete",
+            "recrimination",
+            "secret",
+            "secretary",
+            "secrete"
+        ]
+    },
+    "cieo": {
+        "meaning": "to rouse",
+        "derivatives": [
+            "cite",
+            "excite",
+            "incite",
+            "recite",
+            "resuscitate",
+            "solicit"
+        ]
+    },
+    "cilium": {
+        "meaning": "eyelid",
+        "derivatives": [
+            "supercilious (having or showing arrogant superiority to and disdain to those whom one views as unworthy)"
+        ]
+    },
+    "cimex": {
+        "meaning": "bedbug",
+        "derivatives": [
+            "chinch (bug of temperate regions that infests beds)"
+        ]
+    },
+    "cingo": {
+        "meaning": "to gird",
+        "derivatives": [
+            "cinch",
+            "cincture (band of material around the waist that strengthens a skirt or trousers)",
+            "succinct"
+        ]
+    },
+    "circus": {
+        "meaning": "ring",
+        "derivatives": [
+            "circle",
+            "circulate",
+            "cirque",
+            "search"
+        ]
+    },
+    "citrus": {
+        "meaning": "citron tree",
+        "derivatives": [
+            "citron"
+        ]
+    },
+    "civis": {
+        "meaning": "citizen",
+        "derivatives": [
+            "citadel",
+            "citizen",
+            "city",
+            "civic",
+            "civilian",
+            "civilization"
+        ]
+    },
+    "clam": {
+        "meaning": "clam",
+        "derivatives": [
+            "clandestine"
+        ]
+    },
+    "clamo": {
+        "meaning": "to shout",
+        "derivatives": [
+            "acclaim",
+            "claim",
+            "clamorous",
+            "declaim",
+            "disclaim",
+            "proclaim",
+            "reclaim"
+        ]
+    },
+    "clango": {
+        "meaning": "to resound",
+        "derivatives": [
+            "clang"
+        ]
+    },
+    "clarus": {
+        "meaning": "bright",
+        "derivatives": [
+            "claret (dark purplish-red color)",
+            "clarinet",
+            "clarity",
+            "clear",
+            "declare"
+        ]
+    },
+    "classis": {
+        "meaning": "fleet",
+        "derivatives": [
+            "class",
+            "classic"
+        ]
+    },
+    "claudo": {
+        "meaning": "to close",
+        "derivatives": [
+            "clause",
+            "cloister",
+            "close",
+            "closet",
+            "conclude",
+            "disclose",
+            "enclose",
+            "exclude",
+            "foreclose",
+            "include",
+            "preclude",
+            "recluse",
+            "seclude",
+            "sluice"
+        ]
+    },
+    "clemens": {
+        "meaning": "mild",
+        "derivatives": [
+            "clemency",
+            "inclement"
+        ]
+    },
+    "clavis": {
+        "meaning": "key",
+        "derivatives": [
+            "clef",
+            "conclave"
+        ]
+    },
+    "cliens": {
+        "meaning": "client",
+        "derivatives": [
+            "client"
+        ]
+    },
+    "clino": {
+        "meaning": "to bend",
+        "derivatives": [
+            "declension",
+            "decline",
+            "incline",
+            "recline"
+        ]
+    },
+    "clivus": {
+        "meaning": "slope",
+        "derivatives": [
+            "declivity (downward slop/bend)"
+        ]
+    },
+    "cohors": {
+        "meaning": "court",
+        "derivatives": [
+            "cohort",
+            "cortege (group following/attending to some important person, funeral procession)",
+            "court",
+            "courteous",
+            "courtesy",
+            "courtesan",
+            "curtsey"
+        ]
+    },
+    "collum": {
+        "meaning": "neck",
+        "derivatives": [
+            "accolade",
+            "collar"
+        ]
+    },
+    "colo": {
+        "meaning": "to till",
+        "derivatives": [
+            "agriculture",
+            "colony",
+            "cult",
+            "cultivate",
+            "culture"
+        ]
+    },
+    "color": {
+        "meaning": "color",
+        "derivatives": [
+            "color"
+        ]
+    },
+    "colubra": {
+        "meaning": "serpent",
+        "derivatives": [
+            "cobra"
+        ]
+    },
+    "colum": {
+        "meaning": "strainer",
+        "derivatives": [
+            "colander (bowl-shaped strainer)",
+            "percolate (to pass through)"
+        ]
+    },
+    "columba": {
+        "meaning": "dove",
+        "derivatives": [
+            "columbine (plant of the buttercup family)"
+        ]
+    },
+    "culmen": {
+        "meaning": "peak",
+        "derivatives": [
+            "culminate"
+        ]
+    },
+    "columna": {
+        "meaning": "column",
+        "derivatives": [
+            "colonel",
+            "colonnade",
+            "column"
+        ]
+    },
+    "comis": {
+        "meaning": "kind",
+        "derivatives": [
+            "comity (state or atmosphere of harmony)"
+        ]
+    },
+    "communis": {
+        "meaning": "common",
+        "derivatives": [
+            "common",
+            "communicate",
+            "community"
+        ]
+    },
+    "compilo": {
+        "meaning": "to plunder",
+        "derivatives": [
+            "compile"
+        ]
+    },
+    "condio": {
+        "meaning": "to season",
+        "derivatives": [
+            "condiment"
+        ]
+    },
+    "condo": {
+        "meaning": "to establish",
+        "derivatives": [
+            "abscond",
+            "sconce (candlestick with a flat side to be hung on a wall)"
+        ]
+    },
+    "confuto": {
+        "meaning": "to suppress",
+        "derivatives": [
+            "confute (to prove to be false)"
+        ]
+    },
+    "congruo": {
+        "meaning": "to come together",
+        "derivatives": [
+            "congruent",
+            "incongruity"
+        ]
+    },
+    "coniveo": {
+        "meaning": "to wink",
+        "derivatives": [
+            "connive"
+        ]
+    },
+    "consul": {
+        "meaning": "consul",
+        "derivatives": [
+            "consul"
+        ]
+    },
+    "consulo": {
+        "meaning": "to consult",
+        "derivatives": [
+            "consult",
+            "counsel"
+        ]
+    },
+    "contra": {
+        "meaning": "against",
+        "derivatives": [
+            "contrary",
+            "counter",
+            "encounter"
+        ]
+    },
+    "contumax": {
+        "meaning": "insolent",
+        "derivatives": [
+            "contumacious (willfully obstinate)"
+        ]
+    },
+    "contumelia": {
+        "meaning": "insult",
+        "derivatives": [
+            "contumely (rude expression intended to offend or hurt)"
+        ]
+    },
+    "convexus": {
+        "meaning": "vaulted",
+        "derivatives": [
+            "convex"
+        ]
+    },
+    "coquo": {
+        "meaning": "to cook",
+        "derivatives": [
+            "apricot",
+            "concoct",
+            "cook",
+            "cuisine",
+            "kitchen",
+            "precocious",
+            "terra-cotta"
+        ]
+    },
+    "cor": {
+        "meaning": "heart",
+        "derivatives": [
+            "concord",
+            "cordial",
+            "core",
+            "courage",
+            "discord",
+            "encourage",
+            "record"
+        ]
+    },
+    "corium": {
+        "meaning": "hide",
+        "derivatives": [
+            "cuirass (medieval armor that covers the chest and back)",
+            "scourge"
+        ]
+    },
+    "cornu": {
+        "meaning": "horn",
+        "derivatives": [
+            "cornea",
+            "corner"
+        ]
+    },
+    "corpus": {
+        "meaning": "body",
+        "derivatives": [
+            "corporation",
+            "corporeal",
+            "corps",
+            "corpse",
+            "corpulent",
+            "corpuscle (unattached cell)",
+            "corsage",
+            "corset"
+        ]
+    },
+    "cortex": {
+        "meaning": "bark",
+        "derivatives": [
+            "cortical (resembling cortex)"
+        ]
+    },
+    "costa": {
+        "meaning": "rib",
+        "derivatives": [
+            "accost",
+            "coast",
+            "cutlet (thin slice of meat (esp. veal), usually fried/boiled)"
+        ]
+    },
+    "coxa": {
+        "meaning": "hip",
+        "derivatives": [
+            "cushion"
+        ]
+    },
+    "cras": {
+        "meaning": "tomorrow",
+        "derivatives": [
+            "procrastinate"
+        ]
+    },
+    "crassus": {
+        "meaning": "dense",
+        "derivatives": [
+            "crass",
+            "grease"
+        ]
+    },
+    "cratis": {
+        "meaning": "wickerwork",
+        "derivatives": [
+            "grate",
+            "grid",
+            "grill"
+        ]
+    },
+    "credo": {
+        "meaning": "to believe",
+        "derivatives": [
+            "credence",
+            "credible",
+            "credit",
+            "creed",
+            "grant",
+            "incredible",
+            "miscreant"
+        ]
+    },
+    "creo": {
+        "meaning": "to create",
+        "derivatives": [
+            "create",
+            "creature"
+        ]
+    },
+    "crepo": {
+        "meaning": "to rattle",
+        "derivatives": [
+            "crevice",
+            "decrepit",
+            "discrepancy"
+        ]
+    },
+    "cresco": {
+        "meaning": "to grow",
+        "derivatives": [
+            "accrue",
+            "concrete",
+            "crescent",
+            "crew",
+            "decrease",
+            "increase",
+            "increment",
+            "recruit"
+        ]
+    },
+    "creta": {
+        "meaning": "chalk",
+        "derivatives": [
+            "crayon",
+            "cretaceous"
+        ]
+    },
+    "crimen": {
+        "meaning": "judgment",
+        "derivatives": [
+            "crime"
+        ]
+    },
+    "crispus": {
+        "meaning": "curly",
+        "derivatives": [
+            "crepe (soft thin light fabric with a crinkled surface, small pancake)",
+            "crisp"
+        ]
+    },
+    "crista": {
+        "meaning": "plume",
+        "derivatives": [
+            "crease",
+            "crest",
+            "crestfallen"
+        ]
+    },
+    "crudus": {
+        "meaning": "rough",
+        "derivatives": [
+            "crude",
+            "cruel"
+        ]
+    },
+    "crusta": {
+        "meaning": "rind",
+        "derivatives": [
+            "crust",
+            "crustacean",
+            "custard"
+        ]
+    },
+    "crux": {
+        "meaning": "cross",
+        "derivatives": [
+            "across",
+            "crossword",
+            "crucial",
+            "cruise",
+            "crusade"
+        ]
+    },
+    "cubo": {
+        "meaning": "to lie down",
+        "derivatives": [
+            "concubine",
+            "covey (small flock of grouse)",
+            "cubit (ancient unit of length based on the length of a forearm)",
+            "incubator",
+            "incubus",
+            "incumbent",
+            "recumbent",
+            "succumb"
+        ]
+    },
+    "cucullus": {
+        "meaning": "hood",
+        "derivatives": [
+            "cowl"
+        ]
+    },
+    "cucumis": {
+        "meaning": "cucumber",
+        "derivatives": [
+            "cucumber"
+        ]
+    },
+    "cucurbita": {
+        "meaning": "gourd",
+        "derivatives": [
+            "gourd"
+        ]
+    },
+    "culcita": {
+        "meaning": "mattress",
+        "derivatives": [
+            "quilt"
+        ]
+    },
+    "culina": {
+        "meaning": "kitchen",
+        "derivatives": [
+            "culinary",
+            "kiln"
+        ]
+    },
+    "culpa": {
+        "meaning": "blame",
+        "derivatives": [
+            "culpable"
+        ]
+    },
+    "culter": {
+        "meaning": "knife",
+        "derivatives": [
+            "cutlass",
+            "cutlery"
+        ]
+    },
+    "culus": {
+        "meaning": "anus",
+        "derivatives": [
+            "recoil"
+        ]
+    },
+    "cumulus": {
+        "meaning": "heap",
+        "derivatives": [
+            "accumulate",
+            "cumulative"
+        ]
+    },
+    "cuneus": {
+        "meaning": "wedge",
+        "derivatives": [
+            "coin"
+        ]
+    },
+    "cuniculus": {
+        "meaning": "rabbit",
+        "derivatives": [
+            "cony (type of animal of the hare family)"
+        ]
+    },
+    "cupa": {
+        "meaning": "handle",
+        "derivatives": [
+            "cup",
+            "coop",
+            "cooper"
+        ]
+    },
+    "cupio": {
+        "meaning": "to desire",
+        "derivatives": [
+            "concupiscence",
+            "covet",
+            "cupidity"
+        ]
+    },
+    "curo": {
+        "meaning": "to care for",
+        "derivatives": [
+            "accurate",
+            "assure",
+            "curate",
+            "cure",
+            "curio",
+            "curious",
+            "ensure",
+            "insurance",
+            "procure",
+            "proctor",
+            "proxy",
+            "reassure",
+            "scour",
+            "secure",
+            "surely"
+        ]
+    },
+    "curro": {
+        "meaning": "to run",
+        "derivatives": [
+            "concourse",
+            "concur",
+            "corridor",
+            "corsair (swift pirate ship)",
+            "courier",
+            "course",
+            "current",
+            "cursory (hasty and without attention to detail)",
+            "hussar (member of a European light cavalry unit, renowned for elegant dress)",
+            "incur",
+            "occur",
+            "recur",
+            "succor (assistance in type of difficulty, to help in a difficult situation)"
+        ]
+    },
+    "curtus": {
+        "meaning": "short",
+        "derivatives": [
+            "curt",
+            "curtail"
+        ]
+    },
+    "curvus": {
+        "meaning": "curved",
+        "derivatives": [
+            "curb",
+            "curve"
+        ]
+    },
+    "cuspis": {
+        "meaning": "tip (of a pointed object)",
+        "derivatives": [
+            "cusp"
+        ]
+    },
+    "custos": {
+        "meaning": "guard",
+        "derivatives": [
+            "custodian",
+            "custody"
+        ]
+    },
+    "cutis": {
+        "meaning": "skin",
+        "derivatives": [
+            "cuticle (dead skin at the base of a fingernail/toenail)"
+        ]
+    },
+    "damnum": {
+        "meaning": "damage",
+        "derivatives": [
+            "condemn",
+            "damage",
+            "damn",
+            "indemnity"
+        ]
+    },
+    "debeo": {
+        "meaning": "to owe",
+        "derivatives": [
+            "debit",
+            "debt",
+            "due",
+            "duly",
+            "duty",
+            "endeavor"
+        ]
+    },
+    "debilis": {
+        "meaning": "weak",
+        "derivatives": [
+            "debilitate"
+        ]
+    },
+    "decem": {
+        "meaning": "ten",
+        "derivatives": [
+            "decimal",
+            "decimate",
+            "dime"
+        ]
+    },
+    "decet": {
+        "meaning": "to be fitting",
+        "derivatives": [
+            "decent",
+            "decorate",
+            "decorous"
+        ]
+    },
+    "delecto": {
+        "meaning": "to please",
+        "derivatives": [
+            "delectable",
+            "delight",
+            "dilettante (showing frivolous or superficial interest)"
+        ]
+    },
+    "deleo": {
+        "meaning": "to destroy",
+        "derivatives": [
+            "indelible"
+        ]
+    },
+    "delicates": {
+        "meaning": "delightful",
+        "derivatives": [
+            "delicacy",
+            "delicate"
+        ]
+    },
+    "dens": {
+        "meaning": "tooth",
+        "derivatives": [
+            "dental",
+            "indent",
+            "indenture"
+        ]
+    },
+    "densus": {
+        "meaning": "dense",
+        "derivatives": [
+            "condense",
+            "dense"
+        ]
+    },
+    "deterior": {
+        "meaning": "worse",
+        "derivatives": [
+            "deteriorate"
+        ]
+    },
+    "deus": {
+        "meaning": "god",
+        "derivatives": [
+            "adieu",
+            "deity"
+        ]
+    },
+    "dexter": {
+        "meaning": "right",
+        "derivatives": [
+            "dexterity"
+        ]
+    },
+    "dico (dicare)": {
+        "meaning": "to dedicate",
+        "derivatives": [
+            "abdicate",
+            "dedicate",
+            "indicate",
+            "preach",
+            "predicament"
+        ]
+    },
+    "dico (dicere)": {
+        "meaning": "to say",
+        "derivatives": [
+            "addict",
+            "condition",
+            "contradict",
+            "dictate",
+            "diction",
+            "ditty",
+            "edict",
+            "indict",
+            "predict",
+            "prediction"
+        ]
+    },
+    "dies": {
+        "meaning": "day",
+        "derivatives": [
+            "adjourn",
+            "dial",
+            "diary",
+            "diurnal (occurring every day)",
+            "journal",
+            "journey",
+            "sojourn"
+        ]
+    },
+    "digitus": {
+        "meaning": "finger",
+        "derivatives": [
+            "digit"
+        ]
+    },
+    "dignus": {
+        "meaning": "worthy",
+        "derivatives": [
+            "dainty",
+            "deign",
+            "dignity",
+            "disdain",
+            "indignant"
+        ]
+    },
+    "dirus": {
+        "meaning": "fearful",
+        "derivatives": [
+            "dire"
+        ]
+    },
+    "disco": {
+        "meaning": "to learn",
+        "derivatives": [
+            "disciple",
+            "discipline"
+        ]
+    },
+    "dissipo": {
+        "meaning": "to scatter",
+        "derivatives": [
+            "dissipate"
+        ]
+    },
+    "divido": {
+        "meaning": "to divide",
+        "derivatives": [
+            "device",
+            "devise",
+            "divide",
+            "individual"
+        ]
+    },
+    "divus": {
+        "meaning": "god",
+        "derivatives": [
+            "divine"
+        ]
+    },
+    "do": {
+        "meaning": "to give",
+        "derivatives": [
+            "add",
+            "betray",
+            "date",
+            "dative",
+            "dice",
+            "donate",
+            "dowry",
+            "edit",
+            "extradite",
+            "guerdon (reward or payment)",
+            "pardon",
+            "perdition (abode of Satan and the forces of evil)",
+            "render",
+            "rendezvous",
+            "rent",
+            "surrender",
+            "tradition",
+            "traitor",
+            "treason",
+            "vendor"
+        ]
+    },
+    "doceo": {
+        "meaning": "to teach",
+        "derivatives": [
+            "docile",
+            "doctorate",
+            "doctrine",
+            "document"
+        ]
+    },
+    "doleo": {
+        "meaning": "to feel pain",
+        "derivatives": [
+            "condolence",
+            "dolorous",
+            "indolence (inactivity resulting from a dislike of work)"
+        ]
+    },
+    "dolus": {
+        "meaning": "trick",
+        "derivatives": [
+            "sedulous (marked by care and persistent effort)"
+        ]
+    },
+    "dominus": {
+        "meaning": "dominus",
+        "derivatives": [
+            "domino",
+            "danger",
+            "domain",
+            "dominate",
+            "dominion",
+            "dungeon"
+        ]
+    },
+    "domo": {
+        "meaning": "to tame",
+        "derivatives": [
+            "indomitable (impossible to subdue)",
+            "undaunted"
+        ]
+    },
+    "domus": {
+        "meaning": "house",
+        "derivatives": [
+            "dame",
+            "damsel",
+            "dome",
+            "domestic",
+            "domicile",
+            "ma’am",
+            "mademoiselle"
+        ]
+    },
+    "dormio": {
+        "meaning": "to sleep",
+        "derivatives": [
+            "dormant",
+            "dormitory"
+        ]
+    },
+    "dorsum": {
+        "meaning": "back",
+        "derivatives": [
+            "dorsal",
+            "endorse"
+        ]
+    },
+    "dubito": {
+        "meaning": "to doubt",
+        "derivatives": [
+            "doubt",
+            "dubious"
+        ]
+    },
+    "duco": {
+        "meaning": "to lead",
+        "derivatives": [
+            "abduct",
+            "conducive",
+            "conduct",
+            "deduce",
+            "doge (chief magistrate in Venice/Genoa)",
+            "ducat (former gold coin of various European countries)",
+            "duke",
+            "educe",
+            "endue (give qualities or abilities to)",
+            "induce",
+            "introduce",
+            "produce",
+            "redoubt",
+            "reduce",
+            "reproduce",
+            "seduce",
+            "subdue",
+            "traduce"
+        ]
+    },
+    "dulcis": {
+        "meaning": "sweet",
+        "derivatives": [
+            "dulcet",
+            "dulcimer (flat musical instrument that has strings stretched across it and played with two light hammers)"
+        ]
+    },
+    "duo": {
+        "meaning": "two",
+        "derivatives": [
+            "deuce",
+            "double",
+            "doubloon",
+            "dual",
+            "duet"
+        ]
+    },
+    "durus": {
+        "meaning": "hard",
+        "derivatives": [
+            "durable",
+            "duress",
+            "during",
+            "endure"
+        ]
+    },
+    "ebrius": {
+        "meaning": "drunk",
+        "derivatives": [
+            "inebriate"
+        ]
+    },
+    "ebur": {
+        "meaning": "ivory",
+        "derivatives": [
+            "ivory"
+        ]
+    },
+    "edo": {
+        "meaning": "to eat",
+        "derivatives": [
+            "comestible (suitable for use as food)",
+            "edible",
+            "obese"
+        ]
+    },
+    "egeo": {
+        "meaning": "to lack",
+        "derivatives": [
+            "indigence (state of extreme poverty or destitution)"
+        ]
+    },
+    "ego": {
+        "meaning": "I",
+        "derivatives": [
+            "egotism"
+        ]
+    },
+    "elegans": {
+        "meaning": "elegant",
+        "derivatives": [
+            "elegance"
+        ]
+    },
+    "elementum": {
+        "meaning": "principle",
+        "derivatives": [
+            "element",
+            "elementary"
+        ]
+    },
+    "elicio": {
+        "meaning": "to draw forth",
+        "derivatives": [
+            "elicit"
+        ]
+    },
+    "emo": {
+        "meaning": "to buy",
+        "derivatives": [
+            "example",
+            "exempt",
+            "impromptu",
+            "premium",
+            "prompt",
+            "ransom",
+            "redeem",
+            "sample"
+        ]
+    },
+    "eo": {
+        "meaning": "to go",
+        "derivatives": [
+            "ambient",
+            "ambition",
+            "circuit",
+            "commence",
+            "count (n.)",
+            "county",
+            "exit",
+            "initial",
+            "issue",
+            "itinerary",
+            "obituary",
+            "perish",
+            "praetorian",
+            "sedition (illegal action inciting resistance to lawful authority)",
+            "seditious (in opposition to a civil authority or government)",
+            "sudden",
+            "trance",
+            "transition",
+            "transitory"
+        ]
+    },
+    "equus": {
+        "meaning": "horse",
+        "derivatives": [
+            "equestrian"
+        ]
+    },
+    "ericius": {
+        "meaning": "hedgehog",
+        "derivatives": [
+            "urchin"
+        ]
+    },
+    "erro": {
+        "meaning": "to wander",
+        "derivatives": [
+            "aberration",
+            "err"
+        ]
+    },
+    "extra": {
+        "meaning": "outside of",
+        "derivatives": [
+            "estrange",
+            "external",
+            "extreme",
+            "strange"
+        ]
+    },
+    "exsul": {
+        "meaning": "exile",
+        "derivatives": [
+            "exile"
+        ]
+    },
+    "faber": {
+        "meaning": "blacksmith",
+        "derivatives": [
+            "fabric",
+            "fabricate",
+            "fabrication",
+            "forge",
+            "forgery"
+        ]
+    },
+    "facetus": {
+        "meaning": "witty",
+        "derivatives": [
+            "facetious",
+            "superficial"
+        ]
+    },
+    "facies": {
+        "meaning": "face",
+        "derivatives": [
+            "face",
+            "superficial"
+        ]
+    },
+    "facilis (derived from facio)": {
+        "meaning": "easy",
+        "derivatives": [
+            "difficult",
+            "facile",
+            "facilitate",
+            "faculty"
+        ]
+    },
+    "facio": {
+        "meaning": "to do",
+        "derivatives": [
+            "affair",
+            "affect",
+            "confection",
+            "confetti",
+            "deface",
+            "defeat",
+            "defect",
+            "difficult",
+            "effect",
+            "effective",
+            "efficacious",
+            "efficient",
+            "façade",
+            "facet",
+            "facile",
+            "facilitate",
+            "fact",
+            "faction",
+            "factory",
+            "faculty",
+            "fashion",
+            "feasible",
+            "feat",
+            "fetish",
+            "infect",
+            "perfect",
+            "prefect",
+            "proficient",
+            "profit",
+            "ramification",
+            "refectory (communal dining-hall)",
+            "suffice",
+            "surface",
+            "surfeit (state of being more than full)"
+        ]
+    },
+    "fallo": {
+        "meaning": "to deceive",
+        "derivatives": [
+            "fail",
+            "fallacy",
+            "fallible",
+            "false",
+            "fault"
+        ]
+    },
+    "falx": {
+        "meaning": "sickle",
+        "derivatives": [
+            "falcon"
+        ]
+    },
+    "fama": {
+        "meaning": "fame",
+        "derivatives": [
+            "fame"
+        ]
+    },
+    "fames": {
+        "meaning": "hunger",
+        "derivatives": [
+            "famine",
+            "famish"
+        ]
+    },
+    "famulus": {
+        "meaning": "servant",
+        "derivatives": [
+            "familiar",
+            "family"
+        ]
+    },
+    "fanum": {
+        "meaning": "temple",
+        "derivatives": [
+            "fanatic",
+            "profane"
+        ]
+    },
+    "farcio": {
+        "meaning": "to stuff",
+        "derivatives": [
+            "farce"
+        ]
+    },
+    "fascinum": {
+        "meaning": "charm",
+        "derivatives": [
+            "fascinate"
+        ]
+    },
+    "fateor": {
+        "meaning": "to admit",
+        "derivatives": [
+            "confess",
+            "profess",
+            "profession"
+        ]
+    },
+    "fatigo": {
+        "meaning": "to tire",
+        "derivatives": [
+            "fatigue",
+            "indefatigable"
+        ]
+    },
+    "fatuus": {
+        "meaning": "foolish",
+        "derivatives": [
+            "fatuous (devoid of intelligence)",
+            "infatuate"
+        ]
+    },
+    "fauces": {
+        "meaning": "throat",
+        "derivatives": [
+            "suffocate"
+        ]
+    },
+    "Faunus": {
+        "meaning": "Faunus",
+        "derivatives": [
+            "faun",
+            "fauna"
+        ]
+    },
+    "faveo": {
+        "meaning": "to favor",
+        "derivatives": [
+            "favor",
+            "favorite"
+        ]
+    },
+    "febris": {
+        "meaning": "fever",
+        "derivatives": [
+            "fever",
+            "fevered",
+            "feverish",
+            "feverishly"
+        ]
+    },
+    "fecundus": {
+        "meaning": "fruitful",
+        "derivatives": [
+            "fecundity (state of being fertile)"
+        ]
+    },
+    "feles": {
+        "meaning": "cat",
+        "derivatives": [
+            "feline"
+        ]
+    },
+    "felix": {
+        "meaning": "lucky",
+        "derivatives": [
+            "felicitous",
+            "felicity"
+        ]
+    },
+    "femina": {
+        "meaning": "woman",
+        "derivatives": [
+            "effeminate",
+            "female",
+            "feminine"
+        ]
+    },
+    "fendo": {
+        "meaning": "to strike",
+        "derivatives": [
+            "defend",
+            "fence",
+            "fender",
+            "offend"
+        ]
+    },
+    "fenum": {
+        "meaning": "hay",
+        "derivatives": [
+            "fennel"
+        ]
+    },
+    "feriae": {
+        "meaning": "festival",
+        "derivatives": [
+            "fair (n.)"
+        ]
+    },
+    "ferio": {
+        "meaning": "to strike",
+        "derivatives": [
+            "interfere"
+        ]
+    },
+    "fero": {
+        "meaning": "to bear",
+        "derivatives": [
+            "circumference",
+            "confer",
+            "conference",
+            "conifer",
+            "defer",
+            "different",
+            "fertile",
+            "infer",
+            "offer",
+            "prefer",
+            "proffer (to offer for acceptance or rejection)",
+            "refer",
+            "referee",
+            "suffer",
+            "transfer"
+        ]
+    },
+    "ferrum": {
+        "meaning": "iron",
+        "derivatives": [
+            "farrier (a person who shoes horses)"
+        ]
+    },
+    "ferula": {
+        "meaning": "fennel",
+        "derivatives": [
+            "ferule (a switch [cane] used to punish children)"
+        ]
+    },
+    "ferus": {
+        "meaning": "wild",
+        "derivatives": [
+            "ferocious",
+            "fierce"
+        ]
+    },
+    "ferveo": {
+        "meaning": "to boil",
+        "derivatives": [
+            "effervescent",
+            "ferment",
+            "fervent",
+            "fervid"
+        ]
+    },
+    "festus": {
+        "meaning": "merry",
+        "derivatives": [
+            "feast",
+            "festival",
+            "festive",
+            "festoon (to decorate with strings of flowers)",
+            "fete"
+        ]
+    },
+    "fetus": {
+        "meaning": "pregnant",
+        "derivatives": [
+            "effete (marked by excessive self-indulgence and moral decay)",
+            "fawn"
+        ]
+    },
+    "fibra": {
+        "meaning": "fiber",
+        "derivatives": [
+            "fiber",
+            "fibrous"
+        ]
+    },
+    "ficus": {
+        "meaning": "fig",
+        "derivatives": [
+            "fig"
+        ]
+    },
+    "fido": {
+        "meaning": "to trust",
+        "derivatives": [
+            "affiance (to give into marriage)",
+            "affidavit (written declaration made under oath)",
+            "confidant",
+            "confide",
+            "defiant",
+            "deft",
+            "diffident (lacking self-confidence)",
+            "faith",
+            "fealty",
+            "fiancée",
+            "fidelity",
+            "fiduciary",
+            "perfidious (tending to betray)"
+        ]
+    },
+    "figo": {
+        "meaning": "to fix",
+        "derivatives": [
+            "affix",
+            "fix",
+            "prefix",
+            "suffix",
+            "transfix"
+        ]
+    },
+    "filius": {
+        "meaning": "son",
+        "derivatives": [
+            "affiliate",
+            "filial"
+        ]
+    },
+    "filum": {
+        "meaning": "thread",
+        "derivatives": [
+            "defile (n.)",
+            "filament",
+            "file (for papers or of soldiers)",
+            "fillet (thin narrow strip of material)",
+            "profile"
+        ]
+    },
+    "fimbriae": {
+        "meaning": "fibers",
+        "derivatives": [
+            "fringe"
+        ]
+    },
+    "findo": {
+        "meaning": "to cleave",
+        "derivatives": [
+            "fissure"
+        ]
+    },
+    "fingo": {
+        "meaning": "to shape",
+        "derivatives": [
+            "effigy",
+            "faint",
+            "feign",
+            "feint",
+            "fiction",
+            "figure"
+        ]
+    },
+    "finis": {
+        "meaning": "end",
+        "derivatives": [
+            "affinity",
+            "final",
+            "finance",
+            "fine",
+            "finesse",
+            "finish",
+            "finite",
+            "infinite",
+            "refine"
+        ]
+    },
+    "firmus": {
+        "meaning": "stable",
+        "derivatives": [
+            "affirm",
+            "confirm",
+            "firm",
+            "infirm"
+        ]
+    },
+    "fiscus": {
+        "meaning": "basket",
+        "derivatives": [
+            "confiscate",
+            "fiscal"
+        ]
+    },
+    "fistula": {
+        "meaning": "pipe",
+        "derivatives": [
+            "fester"
+        ]
+    },
+    "flaccus": {
+        "meaning": "flabby",
+        "derivatives": [
+            "flaccid"
+        ]
+    },
+    "flagito": {
+        "meaning": "to demand",
+        "derivatives": [
+            "flagitious (shockingly brutal or cruel)"
+        ]
+    },
+    "flagro": {
+        "meaning": "to burn",
+        "derivatives": [
+            "conflagration",
+            "flagrant"
+        ]
+    },
+    "flagrum": {
+        "meaning": "whip",
+        "derivatives": [
+            "flail"
+        ]
+    },
+    "flamma": {
+        "meaning": "flame",
+        "derivatives": [
+            "flamboyant",
+            "flame"
+        ]
+    },
+    "flecto": {
+        "meaning": "to bend",
+        "derivatives": [
+            "deflect",
+            "flexible",
+            "inflection",
+            "reflect"
+        ]
+    },
+    "fleo": {
+        "meaning": "to weep",
+        "derivatives": [
+            "feeble"
+        ]
+    },
+    "fligo": {
+        "meaning": "to strike",
+        "derivatives": [
+            "afflict",
+            "conflict",
+            "inflict",
+            "profligate (unrestrained by convention or morality; recklessly wasteful)"
+        ]
+    },
+    "flo": {
+        "meaning": "to breathe",
+        "derivatives": [
+            "deflate",
+            "inflate",
+            "soufflé"
+        ]
+    },
+    "flos": {
+        "meaning": "flower",
+        "derivatives": [
+            "flora",
+            "florid",
+            "flour",
+            "flourish",
+            "flower"
+        ]
+    },
+    "fluo": {
+        "meaning": "to flow",
+        "derivatives": [
+            "affluent",
+            "confluence",
+            "fluctuate",
+            "fluent",
+            "fluid",
+            "flume (narrow gorge with a stream running through it)",
+            "flux",
+            "influence",
+            "influenza"
+        ]
+    },
+    "focus": {
+        "meaning": "hearth",
+        "derivatives": [
+            "focal",
+            "foyer",
+            "fuel",
+            "fusillade (rapid simultaneous discharge of firearms)"
+        ]
+    },
+    "fodio": {
+        "meaning": "to dig",
+        "derivatives": [
+            "fosse (ditch dug as a fortification and usually filled with water)",
+            "fossil"
+        ]
+    },
+    "foedus": {
+        "meaning": "treaty",
+        "derivatives": [
+            "confederacy",
+            "federal"
+        ]
+    },
+    "feteo": {
+        "meaning": "to stink",
+        "derivatives": [
+            "fetid (offensively malodorous)"
+        ]
+    },
+    "folium": {
+        "meaning": "leaf",
+        "derivatives": [
+            "foil (n.)",
+            "foliage",
+            "folio"
+        ]
+    },
+    "follis": {
+        "meaning": "bellows",
+        "derivatives": [
+            "follicle (small cavity, sac, or gland)",
+            "folly",
+            "fool"
+        ]
+    },
+    "fons": {
+        "meaning": "fountain",
+        "derivatives": [
+            "font",
+            "fount"
+        ]
+    },
+    "for": {
+        "meaning": "to speak",
+        "derivatives": [
+            "affable (diffusing warmth and friendliness)",
+            "fable",
+            "fabulous",
+            "fairy",
+            "fatal",
+            "fate",
+            "ineffable (too sacred to be uttered, defying expression or description)",
+            "infant",
+            "nefarious",
+            "preface"
+        ]
+    },
+    "foris": {
+        "meaning": "door",
+        "derivatives": [
+            "foreclose",
+            "foreign",
+            "forest"
+        ]
+    },
+    "forma": {
+        "meaning": "shape",
+        "derivatives": [
+            "form",
+            "formal",
+            "formation",
+            "formless",
+            "formula",
+            "inform",
+            "informal",
+            "platform",
+            "reform"
+        ]
+    },
+    "formica": {
+        "meaning": "ant",
+        "derivatives": [
+            "chloroform",
+            "formaldehyde (colorless poisonous gas)"
+        ]
+    },
+    "formido": {
+        "meaning": "to dread",
+        "derivatives": [
+            "formidable"
+        ]
+    },
+    "fornax": {
+        "meaning": "furnace",
+        "derivatives": [
+            "furnace"
+        ]
+    },
+    "fornix": {
+        "meaning": "vault",
+        "derivatives": [
+            "fornication (voluntary intercourse between persons not married to one another)"
+        ]
+    },
+    "foro": {
+        "meaning": "to bore",
+        "derivatives": [
+            "perforate (to pass into or through, usually by overcoming resistance)"
+        ]
+    },
+    "fors": {
+        "meaning": "chance",
+        "derivatives": [
+            "fortuitous"
+        ]
+    },
+    "fortis": {
+        "meaning": "strong",
+        "derivatives": [
+            "comfort",
+            "effort",
+            "force",
+            "fort",
+            "forte"
+        ]
+    },
+    "fortuna": {
+        "meaning": "fortune",
+        "derivatives": [
+            "fortunate",
+            "fortune"
+        ]
+    },
+    "forum": {
+        "meaning": "forum",
+        "derivatives": [
+            "forensic"
+        ]
+    },
+    "foveo": {
+        "meaning": "to warm",
+        "derivatives": [
+            "foment (bathe with warm water or medicated lotions, to try to stir up public opinion)"
+        ]
+    },
+    "fragro": {
+        "meaning": "to smell of",
+        "derivatives": [
+            "flair",
+            "fragrant"
+        ]
+    },
+    "frango": {
+        "meaning": "to break",
+        "derivatives": [
+            "fraction",
+            "fracture",
+            "fragile",
+            "fragment",
+            "frail",
+            "fritter (spend frivolously and unwisely)",
+            "infringe"
+        ]
+    },
+    "frater": {
+        "meaning": "brother",
+        "derivatives": [
+            "confraternity",
+            "fraternal",
+            "fraternize",
+            "friar"
+        ]
+    },
+    "fraus": {
+        "meaning": "fraud",
+        "derivatives": [
+            "fraud"
+        ]
+    },
+    "frenum": {
+        "meaning": "bridle",
+        "derivatives": [
+            "refrain"
+        ]
+    },
+    "frequens": {
+        "meaning": "crowded",
+        "derivatives": [
+            "frequent"
+        ]
+    },
+    "frico": {
+        "meaning": "to rub",
+        "derivatives": [
+            "friction"
+        ]
+    },
+    "frigo": {
+        "meaning": "to roast",
+        "derivatives": [
+            "fritter (small quantity of fried batter containing fruit or meat or vegetables)",
+            "fry"
+        ]
+    },
+    "frigus": {
+        "meaning": "cold",
+        "derivatives": [
+            "frigid",
+            "refrigerate"
+        ]
+    },
+    "frio": {
+        "meaning": "to crumble",
+        "derivatives": [
+            "friable (easily broken into small fragments or reduced to powder)"
+        ]
+    },
+    "frivolus": {
+        "meaning": "silly",
+        "derivatives": [
+            "frivolous"
+        ]
+    },
+    "frons (frondis)": {
+        "meaning": "frond",
+        "derivatives": [
+            "frond"
+        ]
+    },
+    "frons (frontis)": {
+        "meaning": "forehead",
+        "derivatives": [
+            "confront",
+            "front",
+            "frontage (part of a building/land that runs along a river, road, etc.)",
+            "frontier"
+        ]
+    },
+    "fruor": {
+        "meaning": "to enjoy",
+        "derivatives": [
+            "fruit",
+            "frugal"
+        ]
+    },
+    "frustra": {
+        "meaning": "in vain",
+        "derivatives": [
+            "frustrate"
+        ]
+    },
+    "fugio": {
+        "meaning": "to flee",
+        "derivatives": [
+            "centrifugal (tending to move away from a center)",
+            "fugitive",
+            "refuge"
+        ]
+    },
+    "fulgeo": {
+        "meaning": "to flash",
+        "derivatives": [
+            "effulgence (quality of being bright and sending out rays of light)",
+            "fulminate (to explode violently and with loud noise)",
+            "refulgent (radiating or as if radiating light)"
+        ]
+    },
+    "fullo": {
+        "meaning": "fuller (one who fulls cloth)",
+        "derivatives": [
+            "foil (to cover or back with foil)"
+        ]
+    },
+    "fumus": {
+        "meaning": "smoke",
+        "derivatives": [
+            "fume",
+            "fumigate",
+            "perfume"
+        ]
+    },
+    "fundo": {
+        "meaning": "to pour",
+        "derivatives": [
+            "confound",
+            "confuse",
+            "diffuse",
+            "found (melt)",
+            "foundry",
+            "funnel",
+            "fuse",
+            "futile",
+            "profuse",
+            "refund",
+            "refuse"
+        ]
+    },
+    "fundus": {
+        "meaning": "bottom",
+        "derivatives": [
+            "found (originate)",
+            "fund",
+            "fundamental",
+            "fundamentally",
+            "profound"
+        ]
+    },
+    "fungor": {
+        "meaning": "to perform",
+        "derivatives": [
+            "defunct",
+            "function",
+            "perfunctory (hasty and without attention to detail)"
+        ]
+    },
+    "fungus": {
+        "meaning": "mushroom",
+        "derivatives": [
+            "fungous"
+        ]
+    },
+    "funus": {
+        "meaning": "funeral",
+        "derivatives": [
+            "funeral"
+        ]
+    },
+    "fur": {
+        "meaning": "thief",
+        "derivatives": [
+            "ferret",
+            "furtive"
+        ]
+    },
+    "furca": {
+        "meaning": "fork",
+        "derivatives": [
+            "fork"
+        ]
+    },
+    "furo": {
+        "meaning": "to rage",
+        "derivatives": [
+            "furious",
+            "fury",
+            "infuriate"
+        ]
+    },
+    "fusus": {
+        "meaning": "spindle",
+        "derivatives": [
+            "fuse (n.)"
+        ]
+    },
+    "futurus": {
+        "meaning": "about to be",
+        "derivatives": [
+            "future"
+        ]
+    },
+    "galbinus": {
+        "meaning": "yellow",
+        "derivatives": [
+            "jaundice (yellow staining of the skin and the whites of the eyes)"
+        ]
+    },
+    "garrio": {
+        "meaning": "chatter",
+        "derivatives": [
+            "garrulous (full of trivial conversation)"
+        ]
+    },
+    "gaudeo": {
+        "meaning": "to rejoice",
+        "derivatives": [
+            "enjoy",
+            "gaudy",
+            "joy",
+            "rejoice"
+        ]
+    },
+    "gelu": {
+        "meaning": "frost",
+        "derivatives": [
+            "congeal (to become gelatinous)",
+            "gelatin",
+            "jelly"
+        ]
+    },
+    "gemma": {
+        "meaning": "jewel",
+        "derivatives": [
+            "gem"
+        ]
+    },
+    "Genua": {
+        "meaning": "Genoa",
+        "derivatives": [
+            "jean (material from which jeans are made)"
+        ]
+    },
+    "genus": {
+        "meaning": "kind",
+        "derivatives": [
+            "engine",
+            "gender",
+            "general",
+            "generate",
+            "generation",
+            "generic",
+            "generosity",
+            "generous",
+            "genial",
+            "genie",
+            "genitive",
+            "genre",
+            "genteel",
+            "gentile",
+            "gentle",
+            "gentry (most powerful members of a society)",
+            "genuine",
+            "germ",
+            "gin (machine)",
+            "indigenous",
+            "ingenious",
+            "jaunty"
+        ]
+    },
+    "gero": {
+        "meaning": "to bear",
+        "derivatives": [
+            "congested",
+            "digest",
+            "gerund",
+            "gesticulate",
+            "gesture",
+            "jest",
+            "register",
+            "suggest"
+        ]
+    },
+    "gigeria": {
+        "meaning": "gizzard",
+        "derivatives": [
+            "gizzard (thick-walled muscular pouch which many animals use to grind food)"
+        ]
+    },
+    "glacies": {
+        "meaning": "ice",
+        "derivatives": [
+            "glacial",
+            "glacier"
+        ]
+    },
+    "gladius": {
+        "meaning": "sword",
+        "derivatives": [
+            "gladiolus"
+        ]
+    },
+    "glans": {
+        "meaning": "acorn",
+        "derivatives": [
+            "gland"
+        ]
+    },
+    "glaeba": {
+        "meaning": "clod",
+        "derivatives": [
+            "glebe (plot of land belonging to an English parish church)"
+        ]
+    },
+    "globus": {
+        "meaning": "sphere",
+        "derivatives": [
+            "globe",
+            "globular",
+            "globule",
+            "hemoglobin"
+        ]
+    },
+    "glomus": {
+        "meaning": "yarn",
+        "derivatives": [
+            "conglomerate"
+        ]
+    },
+    "gloria": {
+        "meaning": "glory",
+        "derivatives": [
+            "glory"
+        ]
+    },
+    "gluten": {
+        "meaning": "glue",
+        "derivatives": [
+            "glutinous"
+        ]
+    },
+    "gluttio": {
+        "meaning": "to swallow",
+        "derivatives": [
+            "glut",
+            "glutton"
+        ]
+    },
+    "gnarus": {
+        "meaning": "practiced",
+        "derivatives": [
+            "ignore",
+            "narrate"
+        ]
+    },
+    "graculus": {
+        "meaning": "jackdaw",
+        "derivatives": [
+            "grackle (long-tailed American blackbird with iridescent black plumage)"
+        ]
+    },
+    "gradior": {
+        "meaning": "to step",
+        "derivatives": [
+            "aggression",
+            "congress",
+            "degrade",
+            "degree",
+            "digress",
+            "gradation",
+            "grade",
+            "gradual",
+            "graduate",
+            "ingredient",
+            "progress"
+        ]
+    },
+    "grandis": {
+        "meaning": "grand",
+        "derivatives": [
+            "grand",
+            "grandeur"
+        ]
+    },
+    "granum": {
+        "meaning": "grain",
+        "derivatives": [
+            "garner",
+            "grain",
+            "granary",
+            "granite",
+            "granule (a tiny grain)",
+            "gravy",
+            "grenadier (infantryman equipped with grenades)",
+            "ingrain"
+        ]
+    },
+    "gratus": {
+        "meaning": "pleasing",
+        "derivatives": [
+            "agree",
+            "congratulate",
+            "grace",
+            "ingrate (a person who shows no gratitude)"
+        ]
+    },
+    "gravis": {
+        "meaning": "heavy",
+        "derivatives": [
+            "grave (adj.)",
+            "gravity",
+            "grief",
+            "grieve"
+        ]
+    },
+    "grex": {
+        "meaning": "herd",
+        "derivatives": [
+            "congregate",
+            "egregious",
+            "gregarious (seeking and enjoying the company of others)",
+            "segregate"
+        ]
+    },
+    "gula": {
+        "meaning": "gullet",
+        "derivatives": [
+            "gullet",
+            "gully"
+        ]
+    },
+    "gurges": {
+        "meaning": "whirlpool",
+        "derivatives": [
+            "gorge"
+        ]
+    },
+    "gustus": {
+        "meaning": "taste",
+        "derivatives": [
+            "disgust",
+            "gusto"
+        ]
+    },
+    "gutta": {
+        "meaning": "drop",
+        "derivatives": [
+            "gout",
+            "gutter"
+        ]
+    },
+    "habeo": {
+        "meaning": "to have",
+        "derivatives": [
+            "ability",
+            "able",
+            "enable",
+            "exhibit",
+            "habit",
+            "inhabit",
+            "inhibit",
+            "prohibit",
+            "provender (stock or supply of foods)",
+            "rehabilitate"
+        ]
+    },
+    "haereo": {
+        "meaning": "to stick",
+        "derivatives": [
+            "adhere",
+            "coherent",
+            "cohesion",
+            "hesitate"
+        ]
+    },
+    "halo": {
+        "meaning": "to breathe",
+        "derivatives": [
+            "exhale",
+            "inhale"
+        ]
+    },
+    "haurio": {
+        "meaning": "to draw (water)",
+        "derivatives": [
+            "exhaust"
+        ]
+    },
+    "herba": {
+        "meaning": "grass",
+        "derivatives": [
+            "arbor",
+            "herb"
+        ]
+    },
+    "heres": {
+        "meaning": "heir",
+        "derivatives": [
+            "heir",
+            "hereditary",
+            "heritage",
+            "inherit"
+        ]
+    },
+    "hiems": {
+        "meaning": "winter",
+        "derivatives": [
+            "hibernate"
+        ]
+    },
+    "hirpex": {
+        "meaning": "harrow (sort of like a rake)",
+        "derivatives": [
+            "hearse",
+            "rehearse"
+        ]
+    },
+    "Hispania": {
+        "meaning": "Spain",
+        "derivatives": [
+            "spaniel"
+        ]
+    },
+    "histrio": {
+        "meaning": "actor",
+        "derivatives": [
+            "histrionic (relating to actors or acting)"
+        ]
+    },
+    "homo": {
+        "meaning": "man",
+        "derivatives": [
+            "homage",
+            "human"
+        ]
+    },
+    "honor (honos)": {
+        "meaning": "honor",
+        "derivatives": [
+            "honest",
+            "honor"
+        ]
+    },
+    "horreo": {
+        "meaning": "to tremble",
+        "derivatives": [
+            "abhor",
+            "horrible",
+            "horrid",
+            "ordure (solid excretory product evacuated from the bowels)"
+        ]
+    },
+    "hortor": {
+        "meaning": "to encourage",
+        "derivatives": [
+            "exhort"
+        ]
+    },
+    "hospes": {
+        "meaning": "host",
+        "derivatives": [
+            "hospice",
+            "hospitable",
+            "hospital",
+            "host",
+            "hostel",
+            "hotel"
+        ]
+    },
+    "hostis": {
+        "meaning": "enemy",
+        "derivatives": [
+            "host (throng)",
+            "hostile"
+        ]
+    },
+    "humeo": {
+        "meaning": "to be moist",
+        "derivatives": [
+            "humid",
+            "humor"
+        ]
+    },
+    "humus": {
+        "meaning": "earth",
+        "derivatives": [
+            "humble",
+            "humiliate",
+            "humility"
+        ]
+    },
+    "iaceo": {
+        "meaning": "to lie down",
+        "derivatives": [
+            "adjacent",
+            "gist"
+        ]
+    },
+    "iacio": {
+        "meaning": "to throw",
+        "derivatives": [
+            "abject",
+            "adjective",
+            "conjecture",
+            "dejected",
+            "eject",
+            "interjection",
+            "jet",
+            "jut",
+            "object",
+            "subject",
+            "trajectory"
+        ]
+    },
+    "Ianus": {
+        "meaning": "Janus",
+        "derivatives": [
+            "janitor"
+        ]
+    },
+    "idem": {
+        "meaning": "the same",
+        "derivatives": [
+            "identity"
+        ]
+    },
+    "Idus": {
+        "meaning": "Ides",
+        "derivatives": [
+            "ides"
+        ]
+    },
+    "ieiunus": {
+        "meaning": "hungry",
+        "derivatives": [
+            "dine",
+            "jejune (lacking in nutritive value)"
+        ]
+    },
+    "ignis": {
+        "meaning": "fire",
+        "derivatives": [
+            "igneous",
+            "ignite"
+        ]
+    },
+    "ilia": {
+        "meaning": "guts",
+        "derivatives": [
+            "jade"
+        ]
+    },
+    "imago": {
+        "meaning": "image",
+        "derivatives": [
+            "image",
+            "imagine"
+        ]
+    },
+    "imbecillus": {
+        "meaning": "weak",
+        "derivatives": [
+            "imbecile"
+        ]
+    },
+    "imbuo": {
+        "meaning": "to moisten",
+        "derivatives": [
+            "imbue"
+        ]
+    },
+    "imitor": {
+        "meaning": "to represent",
+        "derivatives": [
+            "imitate",
+            "inimitable"
+        ]
+    },
+    "inanis": {
+        "meaning": "empty",
+        "derivatives": [
+            "inane (devoid of intelligence)"
+        ]
+    },
+    "incendo": {
+        "meaning": "to set on fire",
+        "derivatives": [
+            "censer (container for burning incense)",
+            "frankincense",
+            "incendiary",
+            "incense"
+        ]
+    },
+    "indulgeo": {
+        "meaning": "to be indulgent",
+        "derivatives": [
+            "indulge"
+        ]
+    },
+    "industria": {
+        "meaning": "diligence",
+        "derivatives": [
+            "industry"
+        ]
+    },
+    "inferus": {
+        "meaning": "low",
+        "derivatives": [
+            "inferiority",
+            "infernal",
+            "inferno"
+        ]
+    },
+    "infestus": {
+        "meaning": "unsafe",
+        "derivatives": [
+            "infest"
+        ]
+    },
+    "instauro": {
+        "meaning": "to repeat",
+        "derivatives": [
+            "store"
+        ]
+    },
+    "instigo": {
+        "meaning": "to stimulate",
+        "derivatives": [
+            "instigate"
+        ]
+    },
+    "insula": {
+        "meaning": "island",
+        "derivatives": [
+            "insular",
+            "insulate",
+            "isle",
+            "isolate"
+        ]
+    },
+    "inter": {
+        "meaning": "among",
+        "derivatives": [
+            "enter",
+            "entrails",
+            "entrance",
+            "entrée",
+            "entry",
+            "intern",
+            "internal",
+            "intimate"
+        ]
+    },
+    "interpres": {
+        "meaning": "broker",
+        "derivatives": [
+            "interpret"
+        ]
+    },
+    "intus": {
+        "meaning": "within",
+        "derivatives": [
+            "denizen",
+            "intestine"
+        ]
+    },
+    "invito": {
+        "meaning": "to invite",
+        "derivatives": [
+            "invite",
+            "vie"
+        ]
+    },
+    "iocus": {
+        "meaning": "joke",
+        "derivatives": [
+            "jewel",
+            "jocular",
+            "joke",
+            "juggle"
+        ]
+    },
+    "ira": {
+        "meaning": "anger",
+        "derivatives": [
+            "irascible",
+            "ire"
+        ]
+    },
+    "irrito": {
+        "meaning": "to incite",
+        "derivatives": [
+            "irritate"
+        ]
+    },
+    "iubilo": {
+        "meaning": "to cheer",
+        "derivatives": [
+            "jubilant"
+        ]
+    },
+    "iudico": {
+        "meaning": "to judge",
+        "derivatives": [
+            "judge",
+            "judicial",
+            "judicious",
+            "prejudice"
+        ]
+    },
+    "iugum": {
+        "meaning": "yoke",
+        "derivatives": [
+            "conjugate",
+            "jugular",
+            "subjugate"
+        ]
+    },
+    "iuncus": {
+        "meaning": "reed",
+        "derivatives": [
+            "junket (trip taken at official public expense)"
+        ]
+    },
+    "iungo": {
+        "meaning": "to join",
+        "derivatives": [
+            "adjunct",
+            "conjugate",
+            "join",
+            "jostle",
+            "joust",
+            "junction",
+            "subjugate",
+            "subjunctive"
+        ]
+    },
+    "iuniperus": {
+        "meaning": "juniper-tree",
+        "derivatives": [
+            "gin (liquor)",
+            "juniper"
+        ]
+    },
+    "Iuppiter": {
+        "meaning": "Jupiter",
+        "derivatives": [
+            "jovial"
+        ]
+    },
+    "ius1": {
+        "meaning": "right",
+        "derivatives": [
+            "abjure (formally reject or disavow a formerly held belief)",
+            "adjust",
+            "conjure",
+            "jury",
+            "just",
+            "perjury (criminal offense of making false statements under oath)"
+        ]
+    },
+    "ius2": {
+        "meaning": "broth",
+        "derivatives": [
+            "juice"
+        ]
+    },
+    "iuvenis": {
+        "meaning": "young",
+        "derivatives": [
+            "juvenile",
+            "rejuvenate"
+        ]
+    },
+    "iuvo": {
+        "meaning": "to help",
+        "derivatives": [
+            "adjutant (officer who acts as a military assistant to a more senior officer)",
+            "aid",
+            "coadjutor (assistant to a bishop)",
+            "jocund (full of high-spirited merriment)"
+        ]
+    },
+    "labium": {
+        "meaning": "lip",
+        "derivatives": [
+            "labial"
+        ]
+    },
+    "laboro": {
+        "meaning": "to work",
+        "derivatives": [
+            "collaborate",
+            "elaborately",
+            "laboratory",
+            "laborer",
+            "laborious"
+        ]
+    },
+    "labor": {
+        "meaning": "to fall",
+        "derivatives": [
+            "avalanche",
+            "collapse",
+            "lapse"
+        ]
+    },
+    "lac": {
+        "meaning": "milk",
+        "derivatives": [
+            "lactic",
+            "lettuce"
+        ]
+    },
+    "lacer": {
+        "meaning": "mangled",
+        "derivatives": [
+            "lacerate"
+        ]
+    },
+    "lacertus": {
+        "meaning": "arm",
+        "derivatives": [
+            "alligator",
+            "lizard"
+        ]
+    },
+    "lacio": {
+        "meaning": "to deceive",
+        "derivatives": [
+            "delicious"
+        ]
+    },
+    "lacrima": {
+        "meaning": "tear",
+        "derivatives": [
+            "lachrymal"
+        ]
+    },
+    "lacus": {
+        "meaning": "lake",
+        "derivatives": [
+            "lagoon",
+            "lake"
+        ]
+    },
+    "laedo": {
+        "meaning": "to harm",
+        "derivatives": [
+            "collide"
+        ]
+    },
+    "lambo": {
+        "meaning": "to lick",
+        "derivatives": [
+            "lambent"
+        ]
+    },
+    "lamentum": {
+        "meaning": "wailing",
+        "derivatives": [
+            "lament"
+        ]
+    },
+    "lamina": {
+        "meaning": "thin plate",
+        "derivatives": [
+            "omelet"
+        ]
+    },
+    "lancea": {
+        "meaning": "lance",
+        "derivatives": [
+            "lance",
+            "launch"
+        ]
+    },
+    "langueo": {
+        "meaning": "to be weak",
+        "derivatives": [
+            "languid (lacking spirit or liveliness)",
+            "languish"
+        ]
+    },
+    "lanx": {
+        "meaning": "platter",
+        "derivatives": [
+            "balance"
+        ]
+    },
+    "lapis": {
+        "meaning": "stone",
+        "derivatives": [
+            "dilapidated"
+        ]
+    },
+    "laqueus": {
+        "meaning": "noose",
+        "derivatives": [
+            "lace",
+            "necklace"
+        ]
+    },
+    "largus": {
+        "meaning": "abundant",
+        "derivatives": [
+            "large",
+            "largess (gift or money given, usually ostentatiously)"
+        ]
+    },
+    "laridum": {
+        "meaning": "lard",
+        "derivatives": [
+            "lard",
+            "larder"
+        ]
+    },
+    "larix": {
+        "meaning": "larch (type of tree)",
+        "derivatives": [
+            "larch (type of tree)"
+        ]
+    },
+    "larva": {
+        "meaning": "ghost",
+        "derivatives": [
+            "larval"
+        ]
+    },
+    "lascivus": {
+        "meaning": "frisky",
+        "derivatives": [
+            "lascivious (driven by lust)"
+        ]
+    },
+    "lassus": {
+        "meaning": "weary",
+        "derivatives": [
+            "alas",
+            "lassitude (weakness characterized by a lack of vitality or energy)"
+        ]
+    },
+    "lateo": {
+        "meaning": "to lurk",
+        "derivatives": [
+            "latent"
+        ]
+    },
+    "latro": {
+        "meaning": "bandit",
+        "derivatives": [
+            "larceny"
+        ]
+    },
+    "latus1": {
+        "meaning": "wide",
+        "derivatives": [
+            "dilate",
+            "latitude"
+        ]
+    },
+    "latus2": {
+        "meaning": "side",
+        "derivatives": [
+            "collateral",
+            "lateral"
+        ]
+    },
+    "latus3": {
+        "meaning": "carried",
+        "derivatives": [
+            "collate",
+            "correlate",
+            "elated",
+            "oblation (act of making a religious offering)",
+            "relative",
+            "superlative",
+            "translate"
+        ]
+    },
+    "laurus": {
+        "meaning": "laurel",
+        "derivatives": [
+            "laureate",
+            "laurel"
+        ]
+    },
+    "laudo": {
+        "meaning": "to praise",
+        "derivatives": [
+            "allow",
+            "laud"
+        ]
+    },
+    "lavo": {
+        "meaning": "to wash",
+        "derivatives": [
+            "ablution (ritual washing of a priest’s hands or of sacred vessels)",
+            "deluge",
+            "dilute",
+            "laundry",
+            "lava",
+            "lavatory",
+            "lavish",
+            "lotion"
+        ]
+    },
+    "laxus": {
+        "meaning": "wide",
+        "derivatives": [
+            "lax",
+            "laxative",
+            "lease",
+            "leash",
+            "relax",
+            "release",
+            "relish"
+        ]
+    },
+    "lectus": {
+        "meaning": "bed",
+        "derivatives": [
+            "litter"
+        ]
+    },
+    "lego1": {
+        "meaning": "to despatch",
+        "derivatives": [
+            "colleague",
+            "college",
+            "delegate",
+            "legacy",
+            "relegate"
+        ]
+    },
+    "lego2": {
+        "meaning": "to read",
+        "derivatives": [
+            "coil",
+            "collect",
+            "cull",
+            "diligent",
+            "elect",
+            "eligible",
+            "intellect",
+            "lecture",
+            "legend",
+            "legible",
+            "legion",
+            "lesson",
+            "neglect",
+            "select"
+        ]
+    },
+    "legume": {
+        "meaning": "pulse",
+        "derivatives": [
+            "legume"
+        ]
+    },
+    "lenis": {
+        "meaning": "soft",
+        "derivatives": [
+            "lenient",
+            "lenity"
+        ]
+    },
+    "lens": {
+        "meaning": "lentil bean",
+        "derivatives": [
+            "lentil"
+        ]
+    },
+    "lentus": {
+        "meaning": "sticky",
+        "derivatives": [
+            "relent"
+        ]
+    },
+    "levis": {
+        "meaning": "light",
+        "derivatives": [
+            "alleviate",
+            "elevate",
+            "leaven",
+            "levee",
+            "lever",
+            "levy",
+            "relevant",
+            "relief"
+        ]
+    },
+    "lex": {
+        "meaning": "law",
+        "derivatives": [
+            "legal",
+            "legitimate",
+            "loyal"
+        ]
+    },
+    "liber1": {
+        "meaning": "book",
+        "derivatives": [
+            "libel",
+            "library",
+            "libretto (words of an opera or musical play)"
+        ]
+    },
+    "liber2": {
+        "meaning": "free",
+        "derivatives": [
+            "deliver",
+            "liberate",
+            "liberty",
+            "livery (care of horses for pay)"
+        ]
+    },
+    "libo": {
+        "meaning": "to taste",
+        "derivatives": [
+            "libation"
+        ]
+    },
+    "libra": {
+        "meaning": "scales",
+        "derivatives": [
+            "deliberate",
+            "level",
+            "lira (formerly the basic unit of money in Italy)"
+        ]
+    },
+    "licet": {
+        "meaning": "it is allowed",
+        "derivatives": [
+            "illicit",
+            "leisure",
+            "license"
+        ]
+    },
+    "lignum": {
+        "meaning": "firewood",
+        "derivatives": [
+            "lignite (intermediate between peat and bituminous coal)"
+        ]
+    },
+    "ligo": {
+        "meaning": "to bind",
+        "derivatives": [
+            "alloy",
+            "ally",
+            "league",
+            "liable",
+            "liaison",
+            "ligament",
+            "oblige",
+            "rally",
+            "rely"
+        ]
+    },
+    "limbus": {
+        "meaning": "border",
+        "derivatives": [
+            "limbo"
+        ]
+    },
+    "limen": {
+        "meaning": "threshold",
+        "derivatives": [
+            "eliminate",
+            "preliminary"
+        ]
+    },
+    "limes": {
+        "meaning": "limit",
+        "derivatives": [
+            "limit",
+            "lintel"
+        ]
+    },
+    "limpidus": {
+        "meaning": "clear",
+        "derivatives": [
+            "limpid"
+        ]
+    },
+    "lingua": {
+        "meaning": "tongue",
+        "derivatives": [
+            "language",
+            "linguistic"
+        ]
+    },
+    "lino": {
+        "meaning": "to daub",
+        "derivatives": [
+            "liniment (medicinal liquid rubbed into the skin to relieve muscular stiffness and pain)"
+        ]
+    },
+    "linquo": {
+        "meaning": "to foresake",
+        "derivatives": [
+            "delinquent",
+            "derelict",
+            "relic",
+            "relinquish"
+        ]
+    },
+    "linum": {
+        "meaning": "flax",
+        "derivatives": [
+            "align",
+            "delineate",
+            "line",
+            "lineage",
+            "linen",
+            "lingerie",
+            "lint"
+        ]
+    },
+    "liqueo": {
+        "meaning": "to be fluid",
+        "derivatives": [
+            "liquid",
+            "liquor",
+            "prolix (tediously prolonged or tending to speak or write at great length)"
+        ]
+    },
+    "lira": {
+        "meaning": "furrow",
+        "derivatives": [
+            "delirious"
+        ]
+    },
+    "lis": {
+        "meaning": "quarrel",
+        "derivatives": [
+            "litigation"
+        ]
+    },
+    "littera": {
+        "meaning": "letter",
+        "derivatives": [
+            "alliteration",
+            "letter",
+            "literacy",
+            "literal",
+            "literary",
+            "literature",
+            "obliterate"
+        ]
+    },
+    "liveo": {
+        "meaning": "to be livid",
+        "derivatives": [
+            "livid"
+        ]
+    },
+    "locus": {
+        "meaning": "place",
+        "derivatives": [
+            "couch",
+            "lieu",
+            "local",
+            "locate"
+        ]
+    },
+    "locusta": {
+        "meaning": "locust",
+        "derivatives": [
+            "lobster",
+            "locust"
+        ]
+    },
+    "longus": {
+        "meaning": "long",
+        "derivatives": [
+            "longitude",
+            "lunge",
+            "oblong",
+            "prolong",
+            "purloin"
+        ]
+    },
+    "loquor": {
+        "meaning": "to say",
+        "derivatives": [
+            "circumlocution",
+            "colloquial",
+            "elocution",
+            "eloquence",
+            "loquacious",
+            "obloquy (harsh or critical statements about someone)",
+            "soliloquy"
+        ]
+    },
+    "lubricus": {
+        "meaning": "slippery",
+        "derivatives": [
+            "lubricate"
+        ]
+    },
+    "luceo": {
+        "meaning": "to shine",
+        "derivatives": [
+            "lucid",
+            "translucent"
+        ]
+    },
+    "lucrum": {
+        "meaning": "profit",
+        "derivatives": [
+            "lucrative"
+        ]
+    },
+    "luctor": {
+        "meaning": "to struggle",
+        "derivatives": [
+            "reluctant"
+        ]
+    },
+    "ludo": {
+        "meaning": "to play",
+        "derivatives": [
+            "allude",
+            "delude",
+            "elusive",
+            "illusion",
+            "ludicrous",
+            "prelude"
+        ]
+    },
+    "lugeo": {
+        "meaning": "to mourn",
+        "derivatives": [
+            "lugubrious (excessively mournful)"
+        ]
+    },
+    "lumbus": {
+        "meaning": "loin",
+        "derivatives": [
+            "loin",
+            "lumbar"
+        ]
+    },
+    "lumen": {
+        "meaning": "light",
+        "derivatives": [
+            "illuminate",
+            "luminous"
+        ]
+    },
+    "luna": {
+        "meaning": "moon",
+        "derivatives": [
+            "lunacy",
+            "lunar",
+            "lunatic"
+        ]
+    },
+    "luror": {
+        "meaning": "paleness",
+        "derivatives": [
+            "lurid (gruesome, horrible)"
+        ]
+    },
+    "lustro": {
+        "meaning": "to purify",
+        "derivatives": [
+            "illustrate",
+            "illustrious",
+            "lackluster",
+            "lustrous"
+        ]
+    },
+    "luxus": {
+        "meaning": "excess",
+        "derivatives": [
+            "luxury"
+        ]
+    },
+    "lympha": {
+        "meaning": "pure water",
+        "derivatives": [
+            "lymph"
+        ]
+    },
+    "macer": {
+        "meaning": "lean",
+        "derivatives": [
+            "emaciate",
+            "meager"
+        ]
+    },
+    "macula": {
+        "meaning": "spot",
+        "derivatives": [
+            "immaculate"
+        ]
+    },
+    "magis": {
+        "meaning": "more",
+        "derivatives": [
+            "maestro",
+            "magisterial",
+            "magistrate",
+            "master",
+            "mistress"
+        ]
+    },
+    "magnus": {
+        "meaning": "great",
+        "derivatives": [
+            "magnate",
+            "magnitude",
+            "majestic",
+            "majority",
+            "maxim",
+            "maximum",
+            "mayor"
+        ]
+    },
+    "malleus": {
+        "meaning": "hammer",
+        "derivatives": [
+            "mall",
+            "malleable",
+            "mallet",
+            "maul"
+        ]
+    },
+    "malus": {
+        "meaning": "bad",
+        "derivatives": [
+            "malady",
+            "malaria",
+            "malice",
+            "maugre (in spite of)"
+        ]
+    },
+    "malva": {
+        "meaning": "mallow plant",
+        "derivatives": [
+            "marshmallow",
+            "mauve (pale bluish purple)"
+        ]
+    },
+    "mando1": {
+        "meaning": "to order",
+        "derivatives": [
+            "command",
+            "commend",
+            "commodore (commissioned naval officer ranked above a captain and below a real admiral)",
+            "demand",
+            "mandate"
+        ]
+    },
+    "mando2": {
+        "meaning": "to chew",
+        "derivatives": [
+            "mandible",
+            "manger"
+        ]
+    },
+    "maneo": {
+        "meaning": "to remain",
+        "derivatives": [
+            "manor",
+            "mansion",
+            "menagerie",
+            "menial",
+            "permanent",
+            "remain",
+            "remnant"
+        ]
+    },
+    "mango": {
+        "meaning": "slave-dealer",
+        "derivatives": [
+            "monger"
+        ]
+    },
+    "mano": {
+        "meaning": "to give out",
+        "derivatives": [
+            "emanate"
+        ]
+    },
+    "mantellum": {
+        "meaning": "cloak",
+        "derivatives": [
+            "dismantle",
+            "mantel",
+            "mantle"
+        ]
+    },
+    "manus": {
+        "meaning": "hand",
+        "derivatives": [
+            "manacle",
+            "manage",
+            "manifest",
+            "manipulate",
+            "manner",
+            "manual"
+        ]
+    },
+    "mappa": {
+        "meaning": "napkin",
+        "derivatives": [
+            "apron",
+            "map",
+            "napkin"
+        ]
+    },
+    "mare": {
+        "meaning": "sea",
+        "derivatives": [
+            "marinate",
+            "marine",
+            "maritime",
+            "submarine"
+        ]
+    },
+    "marga": {
+        "meaning": "marl",
+        "derivatives": [
+            "marl (friable earthy deposit consisting of clay; archaic, earth)"
+        ]
+    },
+    "margo": {
+        "meaning": "border",
+        "derivatives": [
+            "margin"
+        ]
+    },
+    "maritus": {
+        "meaning": "husband",
+        "derivatives": [
+            "marital",
+            "marry"
+        ]
+    },
+    "Mars": {
+        "meaning": "Mars",
+        "derivatives": [
+            "martial"
+        ]
+    },
+    "mas": {
+        "meaning": "male",
+        "derivatives": [
+            "emasculate",
+            "male",
+            "masculine"
+        ]
+    },
+    "mater": {
+        "meaning": "mother",
+        "derivatives": [
+            "maternal",
+            "matrimony",
+            "matrix",
+            "matron"
+        ]
+    },
+    "materia": {
+        "meaning": "matter",
+        "derivatives": [
+            "material",
+            "matter"
+        ]
+    },
+    "maturus": {
+        "meaning": "mature",
+        "derivatives": [
+            "demure",
+            "mature"
+        ]
+    },
+    "Matuta": {
+        "meaning": "Matuta",
+        "derivatives": [
+            "matinee"
+        ]
+    },
+    "me": {
+        "meaning": "me",
+        "derivatives": [
+            "ma’am"
+        ]
+    },
+    "medeor": {
+        "meaning": "to heal",
+        "derivatives": [
+            "medical",
+            "medicine",
+            "remedy"
+        ]
+    },
+    "Mediolanum": {
+        "meaning": "Milan",
+        "derivatives": [
+            "milliner"
+        ]
+    },
+    "meditor": {
+        "meaning": "to reflect upon",
+        "derivatives": [
+            "meditate"
+        ]
+    },
+    "medius": {
+        "meaning": "middle",
+        "derivatives": [
+            "immediate",
+            "intermediate",
+            "mean",
+            "median",
+            "mediate",
+            "mediocre",
+            "meridian",
+            "moiety"
+        ]
+    },
+    "medulla": {
+        "meaning": "marrow",
+        "derivatives": [
+            "medullary"
+        ]
+    },
+    "mel": {
+        "meaning": "honey",
+        "derivatives": [
+            "molasses"
+        ]
+    },
+    "melior": {
+        "meaning": "better",
+        "derivatives": [
+            "ameliorate"
+        ]
+    },
+    "membrum": {
+        "meaning": "limb",
+        "derivatives": [
+            "member",
+            "membrane"
+        ]
+    },
+    "memini": {
+        "meaning": "to remember",
+        "derivatives": [
+            "comment",
+            "reminiscence"
+        ]
+    },
+    "memor": {
+        "meaning": "mindful",
+        "derivatives": [
+            "commemorate",
+            "memoir",
+            "memorial",
+            "memory",
+            "remember"
+        ]
+    },
+    "mendicus": {
+        "meaning": "beggar",
+        "derivatives": [
+            "mendicant"
+        ]
+    },
+    "mendum": {
+        "meaning": "fault",
+        "derivatives": [
+            "amend",
+            "mend"
+        ]
+    },
+    "mens": {
+        "meaning": "mind",
+        "derivatives": [
+            "demented",
+            "mental"
+        ]
+    },
+    "mensa": {
+        "meaning": "table",
+        "derivatives": [
+            "mesa"
+        ]
+    },
+    "mentio": {
+        "meaning": "mention",
+        "derivatives": [
+            "mention"
+        ]
+    },
+    "meo": {
+        "meaning": "to traverse",
+        "derivatives": [
+            "permeate"
+        ]
+    },
+    "Mercurius": {
+        "meaning": "Mercury",
+        "derivatives": [
+            "mercurial",
+            "mercury"
+        ]
+    },
+    "mereo": {
+        "meaning": "to earn",
+        "derivatives": [
+            "merit"
+        ]
+    },
+    "mergo": {
+        "meaning": "to dip",
+        "derivatives": [
+            "emergency",
+            "immerse",
+            "merge"
+        ]
+    },
+    "merula": {
+        "meaning": "blackbird",
+        "derivatives": [
+            "merle"
+        ]
+    },
+    "merus": {
+        "meaning": "sheer",
+        "derivatives": [
+            "mere"
+        ]
+    },
+    "merx": {
+        "meaning": "merchandise",
+        "derivatives": [
+            "commerce",
+            "market",
+            "mart",
+            "mercantile",
+            "merchandise",
+            "merchant",
+            "mercenary",
+            "mercy"
+        ]
+    },
+    "metior": {
+        "meaning": "to measure",
+        "derivatives": [
+            "dimension",
+            "immense",
+            "measure"
+        ]
+    },
+    "metuo": {
+        "meaning": "to fear",
+        "derivatives": [
+            "meticulous"
+        ]
+    },
+    "migro": {
+        "meaning": "to migrate",
+        "derivatives": [
+            "emigrate",
+            "migrant"
+        ]
+    },
+    "miles": {
+        "meaning": "soldier",
+        "derivatives": [
+            "militant",
+            "military"
+        ]
+    },
+    "milium": {
+        "meaning": "millet",
+        "derivatives": [
+            "millet"
+        ]
+    },
+    "mille": {
+        "meaning": "thousand",
+        "derivatives": [
+            "mile",
+            "million"
+        ]
+    },
+    "mineo": {
+        "meaning": "to project",
+        "derivatives": [
+            "eminent",
+            "imminent",
+            "prominent",
+            "promontory"
+        ]
+    },
+    "ministro": {
+        "meaning": "to minister",
+        "derivatives": [
+            "administer"
+        ]
+    },
+    "minium": {
+        "meaning": "red-lead",
+        "derivatives": [
+            "miniature"
+        ]
+    },
+    "minor1": {
+        "meaning": "less",
+        "derivatives": [
+            "minimize",
+            "ministry",
+            "minority",
+            "minstrel"
+        ]
+    },
+    "minor2": {
+        "meaning": "to threaten",
+        "derivatives": [
+            "amenable",
+            "demeanor",
+            "menace",
+            "promenade"
+        ]
+    },
+    "minuo": {
+        "meaning": "to lessen",
+        "derivatives": [
+            "diminish",
+            "diminutive",
+            "menu",
+            "mince",
+            "minute"
+        ]
+    },
+    "miror": {
+        "meaning": "to wonder",
+        "derivatives": [
+            "admire",
+            "marvel",
+            "miracle",
+            "mirage",
+            "mirror"
+        ]
+    },
+    "misceo": {
+        "meaning": "to mix",
+        "derivatives": [
+            "meddle",
+            "medley",
+            "melee",
+            "miscellaneous",
+            "mix",
+            "pell-mell",
+            "promiscuous"
+        ]
+    },
+    "miser": {
+        "meaning": "wretched",
+        "derivatives": [
+            "commiseration",
+            "miserable",
+            "misery"
+        ]
+    },
+    "mitis": {
+        "meaning": "gentle",
+        "derivatives": [
+            "mitigate"
+        ]
+    },
+    "mitto": {
+        "meaning": "soft",
+        "derivatives": [
+            "admit",
+            "commissar",
+            "commit",
+            "compromise",
+            "demise",
+            "intermittent",
+            "mess",
+            "message",
+            "missal",
+            "missile",
+            "mission",
+            "muss",
+            "permit",
+            "premise",
+            "promise",
+            "remit",
+            "submit",
+            "surmise"
+        ]
+    },
+    "modus": {
+        "meaning": "measure",
+        "derivatives": [
+            "accommodate",
+            "commodious",
+            "commodity",
+            "mode",
+            "model",
+            "moderation",
+            "modern",
+            "modest",
+            "modulate",
+            "mold"
+        ]
+    },
+    "moles": {
+        "meaning": "mass",
+        "derivatives": [
+            "demolish",
+            "molecule",
+            "molest"
+        ]
+    },
+    "mollis": {
+        "meaning": "soft",
+        "derivatives": [
+            "mollusk"
+        ]
+    },
+    "molo": {
+        "meaning": "to grind",
+        "derivatives": [
+            "emolument",
+            "immolation",
+            "mill",
+            "molar"
+        ]
+    },
+    "moneo": {
+        "meaning": "to warn",
+        "derivatives": [
+            "admonish",
+            "demonstrate",
+            "monition",
+            "monitor",
+            "monster",
+            "monstrous",
+            "monument",
+            "muster",
+            "summon"
+        ]
+    },
+    "moneta": {
+        "meaning": "mint",
+        "derivatives": [
+            "mint",
+            "money"
+        ]
+    },
+    "mons": {
+        "meaning": "mountain",
+        "derivatives": [
+            "amount",
+            "dismount",
+            "insurmountable",
+            "mountain",
+            "mountebank",
+            "paramount"
+        ]
+    },
+    "moror": {
+        "meaning": "to delay",
+        "derivatives": [
+            "demur"
+        ]
+    },
+    "morbus": {
+        "meaning": "disease",
+        "derivatives": [
+            "morbid"
+        ]
+    },
+    "mordeo": {
+        "meaning": "to bite",
+        "derivatives": [
+            "morsel",
+            "remorse"
+        ]
+    },
+    "mors": {
+        "meaning": "death",
+        "derivatives": [
+            "mortal",
+            "mortgage"
+        ]
+    },
+    "mortarium": {
+        "meaning": "mortar",
+        "derivatives": [
+            "mortar"
+        ]
+    },
+    "morus": {
+        "meaning": "mulberry tree",
+        "derivatives": [
+            "mulberry"
+        ]
+    },
+    "mos": {
+        "meaning": "custom",
+        "derivatives": [
+            "moral",
+            "morale",
+            "morose"
+        ]
+    },
+    "moveo": {
+        "meaning": "to move",
+        "derivatives": [
+            "automobile",
+            "commotion",
+            "emotional",
+            "mob",
+            "mobile",
+            "moment",
+            "motif",
+            "motion",
+            "motive",
+            "motor",
+            "move",
+            "movie",
+            "mutiny",
+            "promote",
+            "remote",
+            "remove"
+        ]
+    },
+    "mucus": {
+        "meaning": "mucus",
+        "derivatives": [
+            "mucilage",
+            "mucous"
+        ]
+    },
+    "mulgeo": {
+        "meaning": "to milk",
+        "derivatives": [
+            "emulsion"
+        ]
+    },
+    "mullus": {
+        "meaning": "mullet",
+        "derivatives": [
+            "mullet"
+        ]
+    },
+    "mulus": {
+        "meaning": "mule",
+        "derivatives": [
+            "mule"
+        ]
+    },
+    "mundus": {
+        "meaning": "world",
+        "derivatives": [
+            "mundane"
+        ]
+    },
+    "munio": {
+        "meaning": "to fortify",
+        "derivatives": [
+            "munition"
+        ]
+    },
+    "munus": {
+        "meaning": "gift",
+        "derivatives": [
+            "immune",
+            "munificence",
+            "remuneration"
+        ]
+    },
+    "murus": {
+        "meaning": "wall",
+        "derivatives": [
+            "mural",
+            "immure"
+        ]
+    },
+    "mus": {
+        "meaning": "mouse",
+        "derivatives": [
+            "muscle",
+            "mussel"
+        ]
+    },
+    "musca": {
+        "meaning": "fly",
+        "derivatives": [
+            "mosquito",
+            "musket"
+        ]
+    },
+    "mustum": {
+        "meaning": "unfermented wine",
+        "derivatives": [
+            "mustard"
+        ]
+    },
+    "mutilus": {
+        "meaning": "mutilated",
+        "derivatives": [
+            "mutilate"
+        ]
+    },
+    "muto": {
+        "meaning": "to change",
+        "derivatives": [
+            "commute",
+            "molt",
+            "mutation",
+            "mutual"
+        ]
+    },
+    "mutus": {
+        "meaning": "mute",
+        "derivatives": [
+            "mute"
+        ]
+    },
+    "nascor": {
+        "meaning": "to be born",
+        "derivatives": [
+            "cognate",
+            "innate",
+            "naïve",
+            "natal",
+            "nation",
+            "native",
+            "nature",
+            "renaissance"
+        ]
+    },
+    "nasus": {
+        "meaning": "nose",
+        "derivatives": [
+            "nasal"
+        ]
+    },
+    "navis": {
+        "meaning": "ship",
+        "derivatives": [
+            "naval",
+            "nave",
+            "navy"
+        ]
+    },
+    "nebula": {
+        "meaning": "cloud",
+        "derivatives": [
+            "nebular",
+            "nebulous"
+        ]
+    },
+    "necto": {
+        "meaning": "to bind",
+        "derivatives": [
+            "annex",
+            "connect"
+        ]
+    },
+    "nego": {
+        "meaning": "to deny",
+        "derivatives": [
+            "deny",
+            "negate",
+            "renegade"
+        ]
+    },
+    "nepos": {
+        "meaning": "nephew",
+        "derivatives": [
+            "nephew",
+            "niece",
+            "nepotism"
+        ]
+    },
+    "nervus": {
+        "meaning": "sinew",
+        "derivatives": [
+            "nerve",
+            "nervous"
+        ]
+    },
+    "neuter": {
+        "meaning": "neither",
+        "derivatives": [
+            "neutral"
+        ]
+    },
+    "nex": {
+        "meaning": "murder",
+        "derivatives": [
+            "pernicious"
+        ]
+    },
+    "niger": {
+        "meaning": "black",
+        "derivatives": [
+            "darnel",
+            "negro"
+        ]
+    },
+    "nihil": {
+        "meaning": "nothing",
+        "derivatives": [
+            "annihilate"
+        ]
+    },
+    "niteo": {
+        "meaning": "to shine",
+        "derivatives": [
+            "neat",
+            "net"
+        ]
+    },
+    "noceo": {
+        "meaning": "to harm",
+        "derivatives": [
+            "innocent",
+            "innocuous",
+            "noxious",
+            "nuisance"
+        ]
+    },
+    "nodus": {
+        "meaning": "knot",
+        "derivatives": [
+            "nodule",
+            "noose"
+        ]
+    },
+    "nomen": {
+        "meaning": "name",
+        "derivatives": [
+            "denominate",
+            "ignominious",
+            "misnomer",
+            "nominate",
+            "noun",
+            "renown"
+        ]
+    },
+    "norma": {
+      "meaning": "standard",
+      "derivatives": ["enormous", "normal"]
+    },
+    "nosco": {
+      "meaning": "to know",
+      "derivatives": [
+        "acquaintance",
+        "cognizant",
+        "connoisseur",
+        "incognito",
+        "noble",
+        "notice",
+        "notion",
+        "notorious",
+        "recognition",
+        "recognize",
+        "reconnaissance",
+        "reconnoiter"
+      ]
+    },
+    "nota": {
+      "meaning": "mark",
+      "derivatives": ["annotation", "notable", "notary", "note"]
+    },
+    "novem": {
+      "meaning": "nine",
+      "derivatives": ["noon"]
+    },
+    "novus": {
+      "meaning": "new",
+      "derivatives": ["innovation", "novel", "novice", "novitiate", "renovate"]
+    },
+    "nox": {
+      "meaning": "night",
+      "derivatives": ["nocturnal"]
+    },
+    "nubo": {
+      "meaning": "to wed",
+      "derivatives": ["connubial", "nuptial"]
+    },
+    "nudus": {
+      "meaning": "nude",
+      "derivatives": ["nude"]
+    },
+    "nullus": {
+      "meaning": "none",
+      "derivatives": ["annul", "null"]
+    },
+    "numerus": {
+      "meaning": "number",
+      "derivatives": ["enumerate", "innumerable", "number"]
+    },
+    "nuntio": {
+      "meaning": "to announce",
+      "derivatives": [
+        "annunciation",
+        "denounce",
+        "enunciation",
+        "nuncio",
+        "pronounce"
+      ]
+    },
+    "nuo": {
+      "meaning": "to nod",
+      "derivatives": ["innuendo"]
+    },
+    "nutrio": {
+      "meaning": "to suckle",
+      "derivatives": [
+        "nourish",
+        "nurse",
+        "nurture",
+        "nutrient",
+        "nutriment",
+        "nutrition"
+      ]
+    },
+    "nux": {
+      "meaning": "nut",
+      "derivatives": ["nuclear"]
+    },
+    "obliquus": {
+      "meaning": "slanting",
+      "derivatives": ["oblique"]
+    },
+    "obliviscor": {
+      "meaning": "to forget",
+      "derivatives": ["oblivion", "oblivious"]
+    },
+    "obscenus": {
+      "meaning": "inauspicious",
+      "derivatives": ["obscene"]
+    },
+    "obscurus": {
+      "meaning": "dark",
+      "derivatives": ["obscure"]
+    },
+    "octo": {
+      "meaning": "eight",
+      "derivatives": ["octave"]
+    },
+    "oculus": {
+      "meaning": "eye",
+      "derivatives": [
+        "antler",
+        "inoculate",
+        "inveigle",
+        "monocle",
+        "ocular"
+      ]
+    },
+    "odi": {
+      "meaning": "to hate",
+      "derivatives": [
+        "annoy",
+        "ennui",
+        "noisome",
+        "odious"
+      ]
+    },
+    "odor": {
+      "meaning": "smell",
+      "derivatives": ["odorous"]
+    },
+    "oleo": {
+      "meaning": "to smell",
+      "derivatives": ["redolent"]
+    },
+    "omen": {
+      "meaning": "omen",
+      "derivatives": ["abomination", "ominous"]
+    },
+    "omnis": {
+      "meaning": "all",
+      "derivatives": ["bus"]
+    },
+    "onus": {
+      "meaning": "burden",
+      "derivatives": ["onerous"]
+    },
+    "opacus": {
+      "meaning": "shaded",
+      "derivatives": ["opaque"]
+    },
+    "operio": {
+      "meaning": "to cover",
+      "derivatives": ["cover", "covert", "discover"]
+    },
+    "opinor": {
+      "meaning": "to suppose",
+      "derivatives": ["opine", "opinion"]
+    },
+    "ops": {
+      "meaning": "power",
+      "derivatives": ["copious", "copy", "opulent"]
+    },
+    "optimus": {
+      "meaning": "best",
+      "derivatives": ["optimism"]
+    },
+    "opto": {
+      "meaning": "to choose",
+      "derivatives": ["adopt", "option"]
+    },
+    "opus": {
+      "meaning": "work",
+      "derivatives": [
+        "cooperate",
+        "inure",
+        "operate"
+      ]
+    },
+    "orbis": {
+      "meaning": "circle",
+      "derivatives": ["exorbitant", "orb", "orbit"]
+    },
+    "ordo": {
+      "meaning": "row",
+      "derivatives": [
+        "coordinate",
+        "inordinate",
+        "ordain",
+        "order",
+        "ordinance",
+        "ordinary",
+        "subordinate"
+      ]
+    },
+    "orior": {
+      "meaning": "to rise",
+      "derivatives": [
+        "aboriginal",
+        "abortion",
+        "orient",
+        "oriental",
+        "origin"
+      ]
+    },
+    "orno": {
+      "meaning": "to furnish",
+      "derivatives": ["adorn", "ornament", "ornate", "suborn"]
+    },
+    "oro": {
+      "meaning": "to beg",
+      "derivatives": [
+        "adore",
+        "inexorable",
+        "oracle",
+        "oration"
+      ]
+    },
+    "os": {
+      "meaning": "mouth",
+      "derivatives": ["oral", "usher"]
+    },
+    "otium": {
+      "meaning": "leisure",
+      "derivatives": ["negotiate"]
+    },
+    "ovo": {
+      "meaning": "to exult",
+      "derivatives": ["ovation"]
+    },
+    "ovum": {
+      "meaning": "egg",
+      "derivatives": ["oval", "ovary", "ovule"]
+    },
+    "paciscor": {
+      "meaning": "to make a bargain",
+      "derivatives": ["pact"]
+    },
+    "paeniteo": {
+      "meaning": "to regret",
+      "derivatives": ["penance", "penitent", "repent"]
+    },
+    "pagina": {
+      "meaning": "sheet of paper",
+      "derivatives": ["page"]
+    },
+    "pagus": {
+      "meaning": "district",
+      "derivatives": ["pagan", "peasant"]
+    },
+    "pala": {
+      "meaning": "shovel",
+      "derivatives": ["palette"]
+    },
+    "Palatium": {
+      "meaning": "Palatine (hill)",
+      "derivatives": ["palace", "palatine"]
+    },
+    "palatum": {
+      "meaning": "palate",
+      "derivatives": ["palate"]
+    },
+    "palea": {
+      "meaning": "chaff",
+      "derivatives": ["pallet"]
+    },
+    "palleo": {
+      "meaning": "to be pale",
+      "derivatives": ["appalling", "pale", "pall", "pallid"]
+    },
+    "pallium": {
+      "meaning": "cloak",
+      "derivatives": ["pall", "palliate"]
+    },
+    "palma": {
+      "meaning": "palm",
+      "derivatives": ["palm", "palmetto"]
+    },
+    "palpo": {
+      "meaning": "to stroke",
+      "derivatives": ["palpable", "palpitate"]
+    },
+    "palus": {
+      "meaning": "stake",
+      "derivatives": ["impale", "palisade", "pole"]
+    },
+    "pando": {
+      "meaning": "to spread",
+      "derivatives": [
+        "compass",
+        "expand",
+        "impassable",
+        "pace",
+        "pass",
+        "passé",
+        "passenger",
+        "password",
+        "past",
+        "repass",
+        "spawn",
+        "surpass",
+        "trespass"
+      ]
+    },
+    "pango": {
+      "meaning": "to fasten",
+      "derivatives": [
+        "compact",
+        "dispatch",
+        "impact",
+        "impinge",
+        "propaganda",
+        "propagate"
+      ]
+    },
+    "panis": {
+      "meaning": "bread",
+      "derivatives": ["accompany", "companion", "company", "pantry"]
+    },
+    "pannus": {
+      "meaning": "cloth",
+      "derivatives": ["pane", "panel"]
+    },
+    "pantex": {
+      "meaning": "belly",
+      "derivatives": ["paunch"]
+    },
+    "papaver": {
+      "meaning": "poppy",
+      "derivatives": ["poppy"]
+    },
+    "papilio": {
+      "meaning": "butterfly",
+      "derivatives": ["pavilion"]
+    },
+    "par": {
+      "meaning": "equal",
+      "derivatives": [
+        "apparel",
+        "compare",
+        "disparage",
+        "disparity",
+        "pair",
+        "parity",
+        "peer"
+      ]
+    },
+    "parco": {
+      "meaning": "to spare",
+      "derivatives": ["parsimonious", "parse"]
+    },
+    "pareo": {
+      "meaning": "to appear",
+      "derivatives": ["apparent", "apparition", "appear", "transparent"]
+    },
+    "pario": {
+      "meaning": "to bear",
+      "derivatives": ["parent", "repertoire"]
+    },
+    "paro": {
+      "meaning": "to prepare",
+      "derivatives": [
+        "empire",
+        "imperative",
+        "imperial",
+        "imperious",
+        "parade",
+        "pare",
+        "parry",
+        "prepare",
+        "rampart",
+        "repair",
+        "separate",
+        "sever",
+        "several"
+      ]
+    },
+    "pars": {
+      "meaning": "part",
+      "derivatives": [
+        "apartment",
+        "compartment",
+        "depart",
+        "department",
+        "impart",
+        "parcel",
+        "part",
+        "partake",
+        "particle",
+        "particular",
+        "parting",
+        "partisan",
+        "partition",
+        "partner",
+        "party",
+        "repartee"
+      ]
+    },
+    "pasco": {
+      "meaning": "to feed",
+      "derivatives": [
+        "pastor",
+        "pasture",
+        "pester",
+        "repast"
+      ]
+    },
+    "pastinaca": {
+      "meaning": "parsnip",
+      "derivatives": ["parsnip"]
+    },
+    "pateo": {
+      "meaning": "to lie open",
+      "derivatives": ["patent"]
+    },
+    "pater": {
+      "meaning": "father",
+      "derivatives": [
+        "padre",
+        "paternal",
+        "patrician",
+        "patron",
+        "patter"
+      ]
+    },
+    "patior": {
+      "meaning": "to endure",
+      "derivatives": [
+        "compassion",
+        "compatible",
+        "passion",
+        "passive",
+        "patience"
+      ]
+    },
+    "patro": {
+      "meaning": "to bring about",
+      "derivatives": ["perpetrate"]
+    },
+    "pauper": {
+      "meaning": "poor",
+      "derivatives": ["pauperism", "poor", "poverty"]
+    },
+    "pavio": {
+      "meaning": "to beat",
+      "derivatives": ["pave"]
+    },
+    "pavo": {
+      "meaning": "peacock",
+      "derivatives": ["peacock"]
+    },
+    "pax": {
+      "meaning": "peace",
+      "derivatives": ["appease", "pay", "peace"]
+    },
+    "pecco": {
+      "meaning": "to sin",
+      "derivatives": ["impeccable"]
+    },
+    "pectus": {
+      "meaning": "chest",
+      "derivatives": ["expectorate", "pectoral"]
+    },
+    "pecu": {
+      "meaning": "herd",
+      "derivatives": [
+        "peculation",
+        "peculiar",
+        "peculiarity",
+        "peculiarly",
+        "pecuniary"
+      ]
+    },
+    "peior": {
+      "meaning": "worse",
+      "derivatives": ["impair", "pessimist"]
+    },
+    "pellis": {
+      "meaning": "hide",
+      "derivatives": ["surplice"]
+    },
+    "pello": {
+      "meaning": "to drive",
+      "derivatives": [
+        "expel",
+        "peal",
+        "pulse",
+        "push",
+        "repeal",
+        "repulse"
+      ]
+    },
+    "pelvis": {
+      "meaning": "shallow bowl",
+      "derivatives": ["pelvic"]
+    },
+    "pendeo": {
+      "meaning": "to hang",
+      "derivatives": [
+        "appendage",
+        "depend",
+        "impending",
+        "pendant",
+        "pending",
+        "pendulous",
+        "pendulum",
+        "penthouse",
+        "propensity"
+      ]
+    },
+    "pendo": {
+      "meaning": "to suspend",
+      "derivatives": [
+        "compensate",
+        "dispense",
+        "expend",
+        "expense",
+        "pansy",
+        "pension",
+        "pensive",
+        "perpendicular",
+        "poise",
+        "ponder",
+        "pound",
+        "preponderance",
+        "recompense",
+        "suspend"
+      ]
+    },
+    "penes": {
+      "meaning": "within",
+      "derivatives": ["penetrate"]
+    },
+    "penis": {
+      "meaning": "tail",
+      "derivatives": ["pencil"]
+    },
+    "penna": {
+      "meaning": "feather",
+      "derivatives": ["pen", "pennant"]
+    },
+    "penuria": {
+      "meaning": "want",
+      "derivatives": ["penurious"]
+    },
+    "periculum": {
+      "meaning": "danger",
+      "derivatives": ["peril"]
+    },
+    "peritus": {
+      "meaning": "skilled",
+      "derivatives": ["experience", "experiment", "expert"]
+    },
+    "Persia": {
+      "meaning": "peach",
+      "derivatives": ["peach"]
+    },
+    "persona": {
+      "meaning": "mask",
+      "derivatives": ["parson", "person", "personnel"]
+    },
+    "pervinca": {
+      "meaning": "periwinkle",
+      "derivatives": ["periwinkle"]
+    },
+    "pes": {
+      "meaning": "foot",
+      "derivatives": [
+        "expedience",
+        "expedition",
+        "impeach",
+        "impediment",
+        "pawn",
+        "pedal",
+        "pedestal",
+        "pedestrian",
+        "pioneer"
+      ]
+    },
+    "pestis": {
+      "meaning": "disease",
+      "derivatives": ["pest"]
+    },
+    "petiolus": {
+      "meaning": "stem",
+      "derivatives": ["petiole"]
+    },
+    "peto": {
+      "meaning": "to seek",
+      "derivatives": [
+        "appetite",
+        "compete",
+        "competent",
+        "impetuous",
+        "perpetual",
+        "petition",
+        "petulant",
+        "repeat"
+      ]
+    },
+    "pica": {
+      "meaning": "magpie",
+      "derivatives": ["magpie", "pie"]
+    },
+    "pila": {
+      "meaning": "ball",
+      "derivatives": ["pellet", "pill", "platoon"]
+    },
+    "pila (pillar)": {
+      "meaning": "pillar",
+      "derivatives": ["pile", "pillar"]
+    },
+    "pilus": {
+      "meaning": "hair",
+      "derivatives": ["caterpillar", "peel", "pillage", "plush"]
+    },
+    "pingo": {
+      "meaning": "to paint",
+      "derivatives": ["depict", "paint", "picture", "pigment"]
+    },
+    "pinna": {
+      "meaning": "feather",
+      "derivatives": ["pin", "pinnacle"]
+    },
+    "pinso": {
+      "meaning": "to beat",
+      "derivatives": ["pestle", "piston"]
+    },
+    "pinus": {
+      "meaning": "pine tree",
+      "derivatives": ["pine", "pineapple"]
+    },
+    "pipo": {
+      "meaning": "to chirp",
+      "derivatives": ["pipe", "piper"]
+    },
+    "pirum": {
+      "meaning": "pear",
+      "derivatives": ["pear"]
+    },
+    "pituita": {
+      "meaning": "mucus",
+      "derivatives": ["pip", "pituitary"]
+    },
+    "pius": {
+      "meaning": "pious",
+      "derivatives": ["expiate", "piety", "piteous", "pittance", "pity"]
+    },
+    "pix": {
+      "meaning": "pitch",
+      "derivatives": ["pitch"]
+    },
+    "placeo": {
+      "meaning": "to please",
+      "derivatives": ["complacent", "placid", "plea", "please"]
+    },
+    "placo": {
+      "meaning": "to appease",
+      "derivatives": ["implacable", "placate", "supple", "suppliant"]
+    },
+    "plagiarius": {
+      "meaning": "torturer",
+      "derivatives": ["plagiarism"]
+    },
+    "plango": {
+      "meaning": "to strike",
+      "derivatives": ["complain", "plague", "plaintiff", "plaintive"]
+    },
+    "planta": {
+      "meaning": "plant",
+      "derivatives": ["implant", "plant", "plantain", "supplant"]
+    },
+    "planus": {
+      "meaning": "level",
+      "derivatives": ["explain", "piano", "plain", "plan", "plane"]
+    },
+    "plaudo": {
+      "meaning": "to strike",
+      "derivatives": ["applaud", "explode", "plaudit", "plausible"]
+    },
+    "plebs": {
+      "meaning": "plebeians",
+      "derivatives": ["plebeian"]
+    },
+    "plecto": {
+      "meaning": "to plait",
+      "derivatives": ["complex", "multiple", "perplex", "plexus"]
+    },
+    "plenus": {
+      "meaning": "full (of)",
+      "derivatives": [
+        "accomplish",
+        "complementary",
+        "complete",
+        "compliment",
+        "comply",
+        "deplete",
+        "expletive",
+        "implement",
+        "plenary",
+        "plenitude",
+        "plenty",
+        "replete",
+        "supplement",
+        "supply"
+      ]
+    },
+    "plico": {
+      "meaning": "to fold",
+      "derivatives": [
+        "accomplice",
+        "apply",
+        "display",
+        "employ",
+        "explicit",
+        "exploit",
+        "implicate",
+        "implicit",
+        "plait",
+        "pleat",
+        "pliable",
+        "pliers",
+        "plight",
+        "ply",
+        "replica",
+        "reply",
+        "splay"
+      ]
+    },
+    "ploro": {
+      "meaning": "to weep",
+      "derivatives": ["deplore", "explore", "implore"]
+    },
+    "pluit": {
+      "meaning": "it rains",
+      "derivatives": ["plover"]
+    },
+    "pluma": {
+      "meaning": "feather",
+      "derivatives": ["plume"]
+    },
+    "plumbum": {
+      "meaning": "lead",
+      "derivatives": ["plumber", "plummet", "plunge"]
+    },
+    "plus": {
+      "meaning": "more",
+      "derivatives": ["plural", "surplus"]
+    },
+    "polio": {
+      "meaning": "to polish",
+      "derivatives": ["interpolate", "polish", "polite"]
+    },
+    "pollen": {
+      "meaning": "flour",
+      "derivatives": ["pollinate"]
+    },
+    "polluo": {
+      "meaning": "to soil",
+      "derivatives": ["pollute"]
+    },
+    "pomum": {
+      "meaning": "fruit",
+      "derivatives": ["pommel", "pummel"]
+    },
+    "pono": {
+      "meaning": "to place",
+      "derivatives": [
+        "compost",
+        "compound",
+        "deposit",
+        "depot",
+        "expound",
+        "opponent",
+        "opposite",
+        "position",
+        "positive",
+        "postal",
+        "posture",
+        "propound",
+        "provost",
+        "repository",
+        "supposition"
+      ]
+    },
+    "pontifex": {
+      "meaning": "high priest",
+      "derivatives": ["pontiff", "pontificate"]
+    },
+    "populus": {
+      "meaning": "people",
+      "derivatives": [
+        "people",
+        "populace",
+        "popular",
+        "populate",
+        "pub",
+        "public",
+        "publish",
+        "pueblo"
+      ]
+    },
+    "populus (tree)": {
+      "meaning": "tree",
+      "derivatives": ["poplar"]
+    },
+    "porcus": {
+      "meaning": "pig",
+      "derivatives": ["porcelain", "pork"]
+    },
+    "porta": {
+      "meaning": "gate",
+      "derivatives": [
+        "porch",
+        "portal",
+        "porter (doorkeeper)",
+        "portico",
+        "portiere"
+      ]
+    },
+    "portio": {
+      "meaning": "share",
+      "derivatives": ["portion"]
+    },
+    "porto": {
+      "meaning": "to carry",
+      "derivatives": [
+        "comport",
+        "important",
+        "portable",
+        "portage",
+        "porter (one who carries)",
+        "portly",
+        "purport",
+        "report",
+        "sport",
+        "support"
+      ]
+    },
+    "portus": {
+      "meaning": "harbor",
+      "derivatives": ["importune", "opportunity", "port"]
+    },
+    "posco": {
+      "meaning": "to beg",
+      "derivatives": ["postulate"]
+    },
+    "possum": {
+      "meaning": "to be able",
+      "derivatives": ["possible"]
+    },
+    "post": {
+      "meaning": "after",
+      "derivatives": [
+        "posterity",
+        "postern",
+        "preposterous",
+        "puny"
+      ]
+    },
+    "postis": {
+      "meaning": "post",
+      "derivatives": ["post (pillar)", "poster"]
+    },
+    "potis": {
+      "meaning": "able",
+      "derivatives": ["potent", "potential", "power"]
+    },
+    "poto": {
+      "meaning": "to drink",
+      "derivatives": ["poison", "potation", "potion"]
+    },
+    "praeda": {
+      "meaning": "booty",
+      "derivatives": ["depredation", "predatory", "prey"]
+    },
+    "praegnans": {
+      "meaning": "pregnant",
+      "derivatives": ["pregnant"]
+    },
+    "praesto": {
+      "meaning": "to excel",
+      "derivatives": ["presto"]
+    },
+    "partum": {
+      "meaning": "meadow",
+      "derivatives": ["prairie"]
+    },
+    "pravus": {
+      "meaning": "crooked",
+      "derivatives": ["depraved"]
+    },
+    "prex": {
+      "meaning": "prayer",
+      "derivatives": [
+        "deprecate",
+        "imprecate",
+        "pray",
+        "precarious",
+        "prithee"
+      ]
+    },
+    "prehendo": {
+      "meaning": "to seize",
+      "derivatives": [
+        "apprehend",
+        "apprentice",
+        "apprise",
+        "comprehend",
+        "comprise",
+        "enterprise",
+        "entrepreneur",
+        "impregnable",
+        "prison",
+        "pry",
+        "reprehensible",
+        "reprisal",
+        "surprise"
+      ]
+    },
+    "premo": {
+      "meaning": "to press",
+      "derivatives": [
+        "press",
+        "pressure",
+        "print",
+        "reprimand",
+        "sprain"
+      ]
+    },
+    "pretium": {
+      "meaning": "price",
+      "derivatives": [
+        "appraise",
+        "appreciate",
+        "praise",
+        "precious",
+        "price",
+        "prize"
+      ]
+    },
+    "primus": {
+      "meaning": "first",
+      "derivatives": ["premier", "prim", "primitive"]
+    },
+    "prior": {
+      "meaning": "former",
+      "derivatives": ["priority", "priory"]
+    },
+    "pristinus": {
+      "meaning": "former",
+      "derivatives": ["pristine"]
+    },
+    "privus": {
+      "meaning": "private",
+      "derivatives": ["deprive", "private", "privy"]
+    },
+    "prodo": {
+      "meaning": "to bring forth",
+      "derivatives": ["improve", "improvement"]
+    },
+    "probrum": {
+      "meaning": "disgrace",
+      "derivatives": ["opprobrious"]
+    },
+    "probo": {
+      "meaning": "to approve",
+      "derivatives": [
+        "approve",
+        "disapprobation",
+        "probable",
+        "probation",
+        "probe",
+        "proof",
+        "prove",
+        "proven"
+      ]
+    },
+    "prodigium": {
+      "meaning": "omen",
+      "derivatives": ["prodigy"]
+    },
+    "proles": {
+      "meaning": "offspring",
+      "derivatives": ["proletariat"]
+    },
+    "promulgo": {
+      "meaning": "to publish",
+      "derivatives": ["promulgate"]
+    },
+    "pronus": {
+      "meaning": "inclined",
+      "derivatives": ["prone"]
+    },
+    "prope": {
+      "meaning": "near",
+      "derivatives": [
+        "approach",
+        "approximate",
+        "propinquity",
+        "proximity",
+        "rapprochement",
+        "reproach"
+      ]
+    },
+    "propitius": {
+      "meaning": "favorable",
+      "derivatives": ["propitiate"]
+    },
+    "proprius": {
+      "meaning": "own",
+      "derivatives": [
+        "appropriate",
+        "proper",
+        "property",
+        "proprietary",
+        "proprietor"
+      ]
+    },
+    "prosperus": {
+      "meaning": "prosperous",
+      "derivatives": ["prosper"]
+    },
+    "provincia": {
+      "meaning": "province",
+      "derivatives": ["province", "provincial"]
+    },
+    "pubes": {
+      "meaning": "adult",
+      "derivatives": ["puberty"]
+    },
+    "pudeo": {
+      "meaning": "to be ashamed",
+      "derivatives": ["impudent"]
+    },
+    "puer": {
+      "meaning": "boy",
+      "derivatives": ["puerile"]
+    },
+    "pugil": {
+      "meaning": "boxer",
+      "derivatives": ["pugilist"]
+    },
+    "pugno": {
+      "meaning": "to fight",
+      "derivatives": ["impugn", "pugnacious", "repugnant"]
+    },
+    "pullus": {
+      "meaning": "young (of a horse)",
+      "derivatives": ["polecat", "pony", "poultry"]
+    },
+    "pulmo": {
+      "meaning": "lung",
+      "derivatives": ["pulmonary"]
+    },
+    "pulpa": {
+      "meaning": "flesh",
+      "derivatives": ["pulp"]
+    },
+    "pulpitum": {
+      "meaning": "platform",
+      "derivatives": ["pulpit"]
+    },
+    "puls": {
+      "meaning": "porridge",
+      "derivatives": ["poultice"]
+    },
+    "pulvinus": {
+      "meaning": "cushion",
+      "derivatives": ["pillow"]
+    },
+    "pulvis": {
+      "meaning": "powder",
+      "derivatives": ["powder", "pulverize"]
+    },
+    "pumex": {
+      "meaning": "pumice",
+      "derivatives": ["pumice"]
+    },
+    "pungo": {
+      "meaning": "to prick",
+      "derivatives": [
+        "appoint",
+        "compunction",
+        "expunge",
+        "poignant",
+        "point",
+        "puncheon",
+        "punctilious",
+        "punctual",
+        "punctuate",
+        "puncture",
+        "pungent"
+      ]
+    },
+    "pupa": {
+      "meaning": "girl",
+      "derivatives": ["pup", "pupil", "puppet", "puppy"]
+    },
+    "puppis": {
+      "meaning": "stern",
+      "derivatives": ["poop"]
+    },
+    "purus": {
+      "meaning": "pure",
+      "derivatives": ["pure", "purge"]
+    },
+    "puter": {
+      "meaning": "rotten",
+      "derivatives": ["putrefy", "putrid"]
+    },
+    "puteus": {
+      "meaning": "pit",
+      "derivatives": ["pit"]
+    },
+    "puto": {
+      "meaning": "to think",
+      "derivatives": [
+        "account",
+        "amputate",
+        "compute",
+        "count",
+        "counter",
+        "deputy",
+        "impute",
+        "repute"
+      ]
+    },
+    "quaero": {
+      "meaning": "to search for",
+      "derivatives": [
+        "acquire",
+        "conquer",
+        "exquisite",
+        "inquest",
+        "inquire",
+        "query",
+        "quest",
+        "question",
+        "require"
+      ]
+    },
+    "qualis": {
+      "meaning": "what kind of",
+      "derivatives": ["quality"]
+    },
+    "quantus": {
+      "meaning": "how much",
+      "derivatives": ["quantity"]
+    },
+    "quatio": {
+      "meaning": "to shake",
+      "derivatives": [
+        "cask",
+        "concussion",
+        "discuss",
+        "rescue",
+        "squash"
+      ]
+    },
+    "quattuor": {
+      "meaning": "four",
+      "derivatives": [
+        "quarantine",
+        "quarry",
+        "quart",
+        "quarter",
+        "quartet",
+        "squad",
+        "square"
+      ]
+    },
+    "queror": {
+      "meaning": "to lament",
+      "derivatives": ["quarrel", "querulous"]
+    },
+    "quies": {
+      "meaning": "rest",
+      "derivatives": [
+        "acquiesce",
+        "acquit",
+        "coy",
+        "quiescent",
+        "quiet",
+        "quit",
+        "quite"
+      ]
+    },
+    "quis": {
+      "meaning": "who",
+      "derivatives": ["quip"]
+    },
+    "quot": {
+      "meaning": "how many",
+      "derivatives": ["quotation", "quotient"]
+    },
+    "rabio": {
+      "meaning": "to be mad",
+      "derivatives": ["rabid", "rage"]
+    },
+    "racemus": {
+      "meaning": "cluster of grapes",
+      "derivatives": ["raisin"]
+    },
+    "radius": {
+      "meaning": "ray (of light)",
+      "derivatives": [
+        "radial",
+        "radiant",
+        "radiation",
+        "radiator",
+        "radio",
+        "radium",
+        "ray"
+      ]
+    },
+    "radix": {
+      "meaning": "root",
+      "derivatives": [
+        "eradicate",
+        "radical",
+        "radish"
+      ]
+    },
+    "rado": {
+      "meaning": "to scrape",
+      "derivatives": ["erase", "raze", "razor"]
+    },
+    "ramus": {
+      "meaning": "branch",
+      "derivatives": ["ramification"]
+    },
+    "ranceo": {
+      "meaning": "to be rotten",
+      "derivatives": ["rancid", "rancor"]
+    },
+    "rapio": {
+      "meaning": "to seize",
+      "derivatives": [
+        "rapacious",
+        "rape",
+        "rapid",
+        "rapt",
+        "ravage",
+        "ravenous",
+        "ravine",
+        "ravish",
+        "surreptitious"
+      ]
+    },
+    "rarus": {
+      "meaning": "scattered",
+      "derivatives": ["rare"]
+    },
+    "ravus": {
+      "meaning": "hoarse",
+      "derivatives": ["raucous"]
+    },
+    "recens": {
+      "meaning": "recent",
+      "derivatives": ["recent"]
+    },
+    "reciprocus": {
+      "meaning": "alternating",
+      "derivatives": ["reciprocity"]
+    },
+    "refuto": {
+      "meaning": "to repress",
+      "derivatives": ["refute"]
+    },
+    "rego": {
+      "meaning": "to rule",
+      "derivatives": [
+        "address",
+        "adroit",
+        "alert",
+        "correct",
+        "direct",
+        "dirge",
+        "dirigible",
+        "dress",
+        "erect",
+        "escort",
+        "incorrigible",
+        "rail",
+        "realm",
+        "rector",
+        "regal",
+        "regent",
+        "regime",
+        "region",
+        "regular",
+        "reign",
+        "resource",
+        "resurrection",
+        "royal",
+        "rule",
+        "source",
+        "surge",
+        "unruly"
+      ]
+    },
+    "religio": {
+      "meaning": "religion",
+      "derivatives": ["religion"]
+    },
+    "reor": {
+      "meaning": "to reckon",
+      "derivatives": [
+        "arraign",
+        "rate",
+        "rating",
+        "rational",
+        "reason",
+        "reasonable"
+      ]
+    },
+    "repo": {
+      "meaning": "to creep",
+      "derivatives": ["reptile"]
+    },
+    "repudium": {
+      "meaning": "repudiation",
+      "derivatives": ["repudiate", "repudiation"]
+    },
+    "res": {
+      "meaning": "thing",
+      "derivatives": ["real"]
+    },
+    "resina": {
+      "meaning": "resin",
+      "derivatives": ["resin"]
+    },
+    "restauro": {
+      "meaning": "to restore",
+      "derivatives": ["restaurant", "restore"]
+    },
+    "rete": {
+      "meaning": "net",
+      "derivatives": ["retina"]
+    },
+    "retro": {
+      "meaning": "back",
+      "derivatives": ["arrears", "rear"]
+    },
+    "rideo": {
+      "meaning": "to laugh",
+      "derivatives": ["deride", "ridiculous"]
+    },
+    "rigeo": {
+      "meaning": "to stiffen",
+      "derivatives": ["rigid", "rigorous"]
+    },
+    "rigo": {
+      "meaning": "to wet",
+      "derivatives": ["irrigate"]
+    },
+    "ripa": {
+      "meaning": "bank",
+      "derivatives": ["arrive", "river"]
+    },
+    "ritus": {
+      "meaning": "rite",
+      "derivatives": ["rite"]
+    },
+    "rivus": {
+      "meaning": "river",
+      "derivatives": ["derive", "rival", "river"]
+    },
+    "robur": {
+      "meaning": "oak/strength",
+      "derivatives": ["corroborate", "robust"]
+    },
+    "rodo": {
+      "meaning": "to gnaw",
+      "derivatives": ["corrode", "erosion", "rodent"]
+    },
+    "rogo": {
+      "meaning": "to ask",
+      "derivatives": [
+        "arrogant",
+        "derogatory",
+        "interrogate",
+        "prerogative",
+        "surrogate"
+      ]
+    },
+    "Roma": {
+      "meaning": "Rome",
+      "derivatives": ["romance"]
+    },
+    "rosa": {
+      "meaning": "rose",
+      "derivatives": ["rosary", "rose"]
+    },
+    "rota": {
+      "meaning": "wheel",
+      "derivatives": [
+        "enroll",
+        "rigmarole",
+        "role",
+        "roll",
+        "rotate",
+        "rotund",
+        "roulette",
+        "round"
+      ]
+    },
+    "rubeo": {
+      "meaning": "to be red",
+      "derivatives": ["rouge", "rubric", "ruby"]
+    },
+    "rudis": {
+      "meaning": "rough",
+      "derivatives": [
+        "erudite",
+        "rude",
+        "rudimentary"
+      ]
+    },
+    "ruga": {
+      "meaning": "wrinkle",
+      "derivatives": ["corrugated"]
+    },
+    "rumen": {
+      "meaning": "throat",
+      "derivatives": ["ruminate"]
+    },
+    "rumpo": {
+      "meaning": "to break",
+      "derivatives": [
+        "abrupt",
+        "bankrupt",
+        "corrupt",
+        "erupt",
+        "route",
+        "routine",
+        "rupture"
+      ]
+    },
+    "ruo": {
+      "meaning": "to hurry",
+      "derivatives": ["ruin"]
+    },
+    "rus": {
+      "meaning": "countryside",
+      "derivatives": ["rural", "rustic"]
+    },
+    "russus": {
+      "meaning": "red",
+      "derivatives": ["russet"]
+    },
+    "sacer": {
+      "meaning": "sacred",
+      "derivatives": [
+        "consecrate",
+        "execrable",
+        "sacrament",
+        "sacred",
+        "sexton"
+      ]
+    },
+    "saeculum": {
+      "meaning": "age",
+      "derivatives": ["secular", "siècle"]
+    },
+    "saepes": {
+      "meaning": "hedge",
+      "derivatives": ["transept"]
+    },
+    "sagio": {
+      "meaning": "to perceive",
+      "derivatives": ["sagacious"]
+    },
+    "sal": {
+      "meaning": "salt",
+      "derivatives": [
+        "salad",
+        "salary",
+        "saline",
+        "saltpeter",
+        "sauce",
+        "sausage"
+      ]
+    },
+    "salio": {
+      "meaning": "to jump",
+      "derivatives": [
+        "assail",
+        "desultory",
+        "exult",
+        "insult",
+        "result",
+        "salient",
+        "sally"
+      ]
+    },
+    "saliva": {
+      "meaning": "spittle",
+      "derivatives": ["salivary"]
+    },
+    "salix": {
+      "meaning": "willow",
+      "derivatives": ["salicylic"]
+    },
+    "salmo": {
+      "meaning": "salmon",
+      "derivatives": ["salmon"]
+    },
+    "salus": {
+      "meaning": "health",
+      "derivatives": ["salubrious", "salute"]
+    },
+    "salvus": {
+      "meaning": "safe",
+      "derivatives": ["safe", "sage", "salvage", "salvation", "save"]
+    },
+    "sancio": {
+      "meaning": "to make holy",
+      "derivatives": [
+        "saint",
+        "sanctimonious",
+        "sanction",
+        "sanctuary",
+        "sentry"
+      ]
+    },
+    "sanguis": {
+      "meaning": "blood",
+      "derivatives": ["sanguine"]
+    },
+    "sanus": {
+      "meaning": "healthy",
+      "derivatives": ["sane", "sanitation"]
+    },
+    "sapio": {
+      "meaning": "to taste of",
+      "derivatives": [
+        "insipid",
+        "sage",
+        "sapient",
+        "savant",
+        "savor"
+      ]
+    },
+    "satelles": {
+      "meaning": "attendant",
+      "derivatives": ["satellite"]
+    },
+    "satis": {
+      "meaning": "enough",
+      "derivatives": ["asset", "satiate"]
+    },
+    "satur": {
+      "meaning": "full",
+      "derivatives": ["satire", "saturate"]
+    },
+    "Saturnus": {
+      "meaning": "Saturn",
+      "derivatives": ["saturnine"]
+    },
+    "scala": {
+      "meaning": "ladder",
+      "derivatives": ["scale", "echelon"]
+    },
+    "scamnum": {
+      "meaning": "stool",
+      "derivatives": ["shambles"]
+    },
+    "scando": {
+      "meaning": "to climb",
+      "derivatives": [
+        "ascend",
+        "condescension",
+        "descend",
+        "scan",
+        "transcendent"
+      ]
+    },
+    "scandula": {
+      "meaning": "roof-shingle",
+      "derivatives": ["shingle"]
+    },
+    "scindo": {
+      "meaning": "to cut",
+      "derivatives": ["rescind"]
+    },
+    "scintilla": {
+      "meaning": "spark",
+      "derivatives": ["scintillation", "tinsel"]
+    },
+    "scio": {
+      "meaning": "to know",
+      "derivatives": [
+        "conscience",
+        "conscious",
+        "nice",
+        "prescient",
+        "science"
+      ]
+    },
+    "scribo": {
+      "meaning": "to write",
+      "derivatives": [
+        "conscript",
+        "scribble",
+        "scribe",
+        "script",
+        "scrivener",
+        "shrive"
+      ]
+    },
+    "scrinium": {
+      "meaning": "case",
+      "derivatives": ["shrine"]
+    },
+    "scrupus": {
+      "meaning": "rough stone",
+      "derivatives": ["scruple", "scrupulous"]
+    },
+    "scrutor": {
+      "meaning": "to probe",
+      "derivatives": ["inscrutable", "scrutiny"]
+    },
+    "sculpo": {
+      "meaning": "to carve",
+      "derivatives": ["sculptor", "sculpture"]
+    },
+    "scurra": {
+      "meaning": "rake",
+      "derivatives": ["scurrilous"]
+    },
+    "scutra": {
+      "meaning": "platter",
+      "derivatives": ["scullery"]
+    },
+    "scutum": {
+      "meaning": "shield",
+      "derivatives": ["escutcheon", "esquire", "squire"]
+    },
+    "sebum": {
+      "meaning": "grease",
+      "derivatives": ["sebaceous", "suet"]
+    },
+    "seco": {
+      "meaning": "to cut",
+      "derivatives": [
+        "dissect",
+        "insect",
+        "intersect",
+        "section",
+        "segment",
+        "sickle"
+      ]
+    },
+    "sedeo": {
+      "meaning": "to sit",
+      "derivatives": [
+        "assess",
+        "assiduous",
+        "insidious",
+        "obsess",
+        "preside",
+        "president",
+        "resident",
+        "residue",
+        "sedate",
+        "sedative",
+        "sedentary",
+        "sediment",
+        "session",
+        "siege",
+        "size",
+        "supersede",
+        "surcease"
+      ]
+    },
+    "semen": {
+      "meaning": "seed",
+      "derivatives": ["disseminate", "seminary"]
+    },
+    "senex": {
+      "meaning": "old man",
+      "derivatives": [
+        "senate",
+        "senile",
+        "seniority",
+        "senor",
+        "sir",
+        "sire",
+        "surly"
+      ]
+    },
+    "sentio": {
+      "meaning": "to feel",
+      "derivatives": [
+        "assent",
+        "consent",
+        "dissent",
+        "resent",
+        "scent",
+        "scentless",
+        "sensation",
+        "sense",
+        "sentence",
+        "sententious",
+        "sentient",
+        "sentiment"
+      ]
+    },
+    "sepelio": {
+      "meaning": "to bury",
+      "derivatives": ["sepulcher", "sepulture"]
+    },
+    "sequester": {
+      "meaning": "intermediate",
+      "derivatives": ["sequestration"]
+    },
+    "sequor": {
+      "meaning": "to follow",
+      "derivatives": [
+        "consecutive",
+        "consequence",
+        "execute",
+        "obsequious",
+        "persecute",
+        "prosecute",
+        "pursue",
+        "second",
+        "sect",
+        "sequel",
+        "sequence",
+        "set",
+        "sue",
+        "suit",
+        "suitable",
+        "suite"
+      ]
+    },
+    "sera": {
+      "meaning": "bolt",
+      "derivatives": ["seraglio", "serried"]
+    },
+    "serenus": {
+      "meaning": "tranquil",
+      "derivatives": ["serenade", "serene"]
+    },
+    "serius": {
+      "meaning": "grave",
+      "derivatives": ["serious"]
+    },
+    "sermo": {
+      "meaning": "conversation",
+      "derivatives": ["sermon"]
+    },
+    "sero": {
+      "meaning": "to join together",
+      "derivatives": [
+        "assert",
+        "desert",
+        "dissertation",
+        "exert",
+        "insert",
+        "serial",
+        "series"
+      ]
+    },
+    "sero_2": {
+      "meaning": "to sow",
+      "derivatives": ["season"]
+    },
+    "serpo": {
+      "meaning": "to creep",
+      "derivatives": ["serpent"]
+    },
+    "serra": {
+      "meaning": "saw",
+      "derivatives": ["sierra"]
+    },
+    "serus": {
+      "meaning": "late",
+      "derivatives": ["soiree"]
+    },
+    "servo": {
+      "meaning": "to save",
+      "derivatives": [
+        "conserve",
+        "observe",
+        "preserve",
+        "reserve"
+      ]
+    },
+    "servio": {
+      "meaning": "to serve",
+      "derivatives": [
+        "deserve",
+        "dessert",
+        "serf",
+        "sergeant",
+        "servant",
+        "serve",
+        "subservient"
+      ]
+    },
+    "severus": {
+      "meaning": "severe",
+      "derivatives": ["persevere", "severe"]
+    },
+    "sexus": {
+      "meaning": "division",
+      "derivatives": ["sex"]
+    },
+    "sibilo": {
+      "meaning": "to hiss",
+      "derivatives": ["persiflage"]
+    },
+    "siccus": {
+      "meaning": "thirst",
+      "derivatives": ["desiccate"]
+    },
+    "sido": {
+      "meaning": "to settle",
+      "derivatives": ["subside", "subsidiary", "subsidy"]
+    },
+    "sidus": {
+      "meaning": "star",
+      "derivatives": ["consider", "desire", "sidereal"]
+    },
+    "signum": {
+      "meaning": "sign",
+      "derivatives": [
+        "assign",
+        "consign",
+        "design",
+        "designate",
+        "ensign",
+        "resign",
+        "seal",
+        "sign"
+      ]
+    },
+    "sileo": {
+      "meaning": "to be silent",
+      "derivatives": ["silent"]
+    },
+    "silex": {
+      "meaning": "flint",
+      "derivatives": ["silica", "silicate", "silicon"]
+    },
+    "silva": {
+      "meaning": "wood",
+      "derivatives": ["savage", "sylvan"]
+    },
+    "similis": {
+      "meaning": "similar",
+      "derivatives": [
+        "assemble",
+        "assimilate",
+        "resemble",
+        "semblance",
+        "similar",
+        "simulate"
+      ]
+    },
+    "simplex": {
+      "meaning": "single",
+      "derivatives": ["simple"]
+    },
+    "simul": {
+      "meaning": "at the same time",
+      "derivatives": ["ensemble", "simultaneous"]
+    },
+    "sincerus": {
+      "meaning": "clean",
+      "derivatives": ["sincere"]
+    },
+    "sine": {
+      "meaning": "without",
+      "derivatives": ["sans"]
+    },
+    "singuli": {
+      "meaning": "one by one",
+      "derivatives": ["single"]
+    },
+    "sino": {
+      "meaning": "to permit",
+      "derivatives": ["site", "situation"]
+    },
+    "sinus": {
+      "meaning": "hollow",
+      "derivatives": ["insinuate", "sine", "sinuous"]
+    },
+    "sobrius": {
+      "meaning": "sober",
+      "derivatives": ["sober"]
+    },
+    "soccus": {
+      "meaning": "slipper",
+      "derivatives": ["sock"]
+    },
+    "socius": {
+      "meaning": "comrade",
+      "derivatives": ["associate", "social", "society"]
+    },
+    "sol": {
+      "meaning": "sun",
+      "derivatives": ["solar"]
+    },
+    "sollemnis": {
+      "meaning": "annual",
+      "derivatives": ["solemn"]
+    },
+    "soleo": {
+      "meaning": "to be accustomed",
+      "derivatives": ["insolent", "obsolete"]
+    },
+    "solidus": {
+      "meaning": "solid",
+      "derivatives": ["consolidate", "solder", "soldier", "solid", "solidarity"]
+    },
+    "solor": {
+      "meaning": "to comfort",
+      "derivatives": ["console", "solace"]
+    },
+    "solum": {
+      "meaning": "bottom",
+      "derivatives": ["insole", "soil", "sole"]
+    },
+    "solus": {
+      "meaning": "alone",
+      "derivatives": [
+        "desolate",
+        "sole",
+        "solitary",
+        "solitude",
+        "solo",
+        "sullen"
+      ]
+    },
+    "solvo": {
+      "meaning": "to loosen",
+      "derivatives": [
+        "absolute",
+        "absolve",
+        "resolute",
+        "resolve",
+        "soluble",
+        "solution",
+        "solve",
+        "solvent"
+      ]
+    },
+    "sono": {
+      "meaning": "to sound",
+      "derivatives": [
+        "consonant",
+        "dissonant",
+        "resound",
+        "sonata",
+        "sonnet",
+        "sonorous",
+        "sound"
+      ]
+    },
+    "sorbeo": {
+      "meaning": "to suck in",
+      "derivatives": ["absorb"]
+    },
+    "sordeo": {
+      "meaning": "to be dirty",
+      "derivatives": ["sordid"]
+    },
+    "soror": {
+      "meaning": "sister",
+      "derivatives": ["cousin"]
+    },
+    "sors": {
+      "meaning": "lot",
+      "derivatives": [
+        "assortment",
+        "consort",
+        "sorcerer",
+        "sort"
+      ]
+    },
+    "spargo": {
+      "meaning": "to scatter",
+      "derivatives": [
+        "aspersion",
+        "disperse",
+        "intersperse",
+        "sparse"
+      ]
+    },
+    "spatium": {
+      "meaning": "space",
+      "derivatives": ["expatiate", "space"]
+    },
+    "specio": {
+      "meaning": "to observe",
+      "derivatives": [
+        "aspect",
+        "conspicuous",
+        "despicable",
+        "despise",
+        "despite",
+        "expect",
+        "inspect",
+        "perspective",
+        "perspicuity",
+        "prospective",
+        "respectful",
+        "respite",
+        "special",
+        "specimen",
+        "specious",
+        "spectacle",
+        "spectacular",
+        "spectator",
+        "specter",
+        "speculate",
+        "spice",
+        "spite",
+        "suspicious"
+      ]
+    },
+    "spes": {
+      "meaning": "hope",
+      "derivatives": [
+        "despair",
+        "desperado",
+        "desperation"
+      ]
+    },
+    "spica": {
+      "meaning": "ear of grain",
+      "derivatives": ["spike"]
+    },
+    "spina": {
+      "meaning": "thorn",
+      "derivatives": ["spine"]
+    },
+    "spiro": {
+      "meaning": "to breathe",
+      "derivatives": [
+        "aspire",
+        "conspire",
+        "expire",
+        "inspire",
+        "perspire",
+        "respire",
+        "spirit",
+        "sprightly",
+        "sprite",
+        "transpire"
+      ]
+    },
+    "splendeo": {
+      "meaning": "to shine",
+      "derivatives": [
+        "resplendent",
+        "splendid",
+        "splendor"
+      ]
+    },
+    "spolium": {
+      "meaning": "booty",
+      "derivatives": ["spoil"]
+    },
+    "spondeo": {
+      "meaning": "to promise",
+      "derivatives": [
+        "correspond",
+        "despondent",
+        "espouse",
+        "respond",
+        "spouse"
+      ]
+    },
+    "sponte": {
+      "meaning": "willingly",
+      "derivatives": ["spontaneous"]
+    },
+    "spuma": {
+      "meaning": "foam",
+      "derivatives": ["spume"]
+    },
+    "spuo": {
+      "meaning": "to spew",
+      "derivatives": ["cuspidor"]
+    },
+    "spurius": {
+      "meaning": "false",
+      "derivatives": ["spurious"]
+    },
+    "squaleo": {
+      "meaning": "to be stiff",
+      "derivatives": ["squalid"]
+    },
+    "stagnum": {
+      "meaning": "pond",
+      "derivatives": ["stagnant"]
+    },
+    "stella": {
+      "meaning": "star",
+      "derivatives": [
+        "constellation",
+        "stellar"
+      ]
+    },
+    "sterilis": {
+      "meaning": "barren",
+      "derivatives": ["sterile"]
+    },
+    "sterno": {
+      "meaning": "to spread",
+      "derivatives": [
+        "consternation",
+        "prostrate",
+        "stray",
+        "street"
+      ]
+    },
+    "stilla": {
+      "meaning": "drop",
+      "derivatives": [
+        "distil",
+        "instill"
+      ]
+    },
+    "stilus": {
+      "meaning": "stake",
+      "derivatives": ["style"]
+    },
+    "stimulus": {
+      "meaning": "prick",
+      "derivatives": ["stimulate"]
+    },
+    "stinguo": {
+      "meaning": "to put out",
+      "derivatives": [
+        "distinct",
+        "distinguish",
+        "extinct",
+        "extinguish",
+        "instinctive"
+      ]
+    },
+    "stipo": {
+      "meaning": "to compress",
+      "derivatives": [
+        "constipation",
+        "stevedore"
+      ]
+    },
+    "stipula": {
+      "meaning": "stalk",
+      "derivatives": [
+        "stipule",
+        "stubble"
+      ]
+    },
+    "stipulor": {
+      "meaning": "to bargain",
+      "derivatives": ["stipulate"]
+    },
+    "stirps": {
+      "meaning": "root",
+      "derivatives": ["extirpate"]
+    },
+    "sto": {
+      "meaning": "to stand",
+      "derivatives": [
+        "armistice",
+        "arrest",
+        "assist",
+        "constant",
+        "constituent",
+        "constitute",
+        "cost",
+        "desist",
+        "destiny",
+        "destitute",
+        "distance",
+        "establish",
+        "estate",
+        "exist",
+        "extant",
+        "insist",
+        "instant",
+        "institute",
+        "obstacle",
+        "obstetrics",
+        "obstinate",
+        "persistent",
+        "prostitute",
+        "resist",
+        "rest",
+        "restitution",
+        "stable",
+        "stage",
+        "staid",
+        "stance",
+        "stanchion",
+        "stanza",
+        "state",
+        "station",
+        "statistics",
+        "statue",
+        "stature",
+        "statute",
+        "stay",
+        "subsist",
+        "substantial",
+        "substitute",
+        "superstitious",
+        "transubstantiation"
+      ]
+    },
+    "stolidus": {
+      "meaning": "stupid",
+      "derivatives": ["stolid"]
+    },
+    "strenuus": {
+      "meaning": "brisk",
+      "derivatives": ["strenuous"]
+    },
+    "strepo": {
+      "meaning": "to rattle",
+      "derivatives": ["obstreperous"]
+    },
+    "stria": {
+      "meaning": "furrow",
+      "derivatives": ["striated"]
+    },
+    "strideo": {
+      "meaning": "to grate",
+      "derivatives": ["strident"]
+    },
+    "stringo": {
+      "meaning": "to press",
+      "derivatives": [
+        "constrain",
+        "constrict",
+        "distress",
+        "district",
+        "prestige",
+        "restraint",
+        "restrict",
+        "strain",
+        "strait",
+        "stress",
+        "strict",
+        "stringent"
+      ]
+    },
+    "struo": {
+      "meaning": "to construct",
+      "derivatives": [
+        "construct",
+        "construe",
+        "destroy",
+        "instruct",
+        "instrument",
+        "obstruct",
+        "structure"
+      ]
+    },
+    "studeo": {
+      "meaning": "to study",
+      "derivatives": [
+        "etude",
+        "studio",
+        "study"
+      ]
+    },
+    "stupeo": {
+      "meaning": "to be stunned",
+      "derivatives": [
+        "stupefy",
+        "stupendous",
+        "stupid"
+      ]
+    },
+    "suadeo": {
+      "meaning": "to persuade",
+      "derivatives": [
+        "dissuade",
+        "persuade"
+      ]
+    },
+    "suavis": {
+      "meaning": "sweet",
+      "derivatives": [
+        "assuage",
+        "suave"
+      ]
+    },
+    "sublimis": {
+      "meaning": "lofty",
+      "derivatives": ["sublime"]
+    },
+    "sucus": {
+      "meaning": "juice",
+      "derivatives": ["succulent"]
+    },
+    "sudo": {
+      "meaning": "to sweat",
+      "derivatives": ["exude"]
+    },
+    "suesco": {
+      "meaning": "to be accustomed to",
+      "derivatives": [
+        "costume",
+        "custom",
+        "desuetude"
+      ]
+    },
+    "suffragium": {
+      "meaning": "vote",
+      "derivatives": ["suffrage"]
+    },
+    "sugo": {
+      "meaning": "to suck",
+      "derivatives": ["suction"]
+    },
+    "sulphur": {
+      "meaning": "sulfur",
+      "derivatives": ["sulphur"]
+    },
+    "sum": {
+      "meaning": "to be",
+      "derivatives": [
+        "absent",
+        "entity",
+        "essential",
+        "interesting",
+        "present",
+        "representation"
+      ]
+    },
+    "summus": {
+      "meaning": "highest",
+      "derivatives": [
+        "consommé",
+        "consummate",
+        "sum",
+        "summit"
+      ]
+    },
+    "sumo": {
+      "meaning": "to take",
+      "derivatives": [
+        "assume",
+        "consume",
+        "presumably",
+        "resume",
+        "resume",
+        "sumptuous"
+      ]
+    },
+    "suo": {
+      "meaning": "to sew",
+      "derivatives": ["suture"]
+    },
+    "super": {
+      "meaning": "above",
+      "derivatives": [
+        "soprano",
+        "sovereign",
+        "superb",
+        "superiority",
+        "supernal",
+        "supreme"
+      ]
+    },
+    "supinus": {
+      "meaning": "supine",
+      "derivatives": ["supine"]
+    },
+    "surdus": {
+      "meaning": "deaf",
+      "derivatives": ["absurd"]
+    },
+    "taberna": {
+      "meaning": "shop",
+      "derivatives": [
+        "tabernacle",
+        "tavern"
+      ]
+    },
+    "tabula": {
+      "meaning": "tablet",
+      "derivatives": [
+        "table",
+        "tableau",
+        "tablet",
+        "tabulate"
+      ]
+    },
+    "taceo": {
+      "meaning": "to be silent",
+      "derivatives": [
+        "reticent",
+        "tacit"
+      ]
+    },
+    "taedet": {
+      "meaning": "it wearies",
+      "derivatives": [
+        "tedious",
+        "tedium"
+      ]
+    },
+    "talea": {
+      "meaning": "rod",
+      "derivatives": [
+        "detail",
+        "retail",
+        "tailor",
+        "tally"
+      ]
+    },
+    "talis": {
+      "meaning": "such",
+      "derivatives": ["retaliate"]
+    },
+    "talpa": {
+      "meaning": "mole",
+      "derivatives": ["taupe"]
+    },
+    "talus": {
+      "meaning": "ankle",
+      "derivatives": ["talon"]
+    },
+    "tango": {
+      "meaning": "to touch",
+      "derivatives": [
+        "attain",
+        "contact",
+        "contagious",
+        "contaminate",
+        "contiguous",
+        "contingent",
+        "disintegrate",
+        "entire",
+        "integral",
+        "integrity",
+        "tact",
+        "tangent",
+        "tangible",
+        "taste"
+      ]
+    },
+    "tardus": {
+      "meaning": "slow",
+      "derivatives": ["retard", "tardy"]
+    },
+    "tego": {
+      "meaning": "to cover",
+      "derivatives": ["detect", "integument", "protect", "protégé", "tile"]
+    },
+    "temere": {
+      "meaning": "by chance",
+      "derivatives": ["temerity"]
+    },
+    "temetum": {
+      "meaning": "alcohol",
+      "derivatives": ["abstemious"]
+    },
+    "temno": {
+      "meaning": "to despise",
+      "derivatives": ["contempt"]
+    },
+    "tempero": {
+      "meaning": "to moderate",
+      "derivatives": ["tamper", "temper", "temperament", "temperature"]
+    },
+    "templum": {
+      "meaning": "temple",
+      "derivatives": ["contemplate", "temple"]
+    },
+    "tempto": {
+      "meaning": "to try",
+      "derivatives": ["attempt", "tempt", "tentacle", "tentative"]
+    },
+    "tempus": {
+      "meaning": "time",
+      "derivatives": ["contemporary", "extempore", "tempestuous", "tempo", "temporal", "temporary", "tense"]
+    },
+    "tendo": {
+      "meaning": "to stretch",
+      "derivatives": ["attend", "attention", "bartender", "contend", "entente", "extend", "intend", "intense", "intent", "ostensible", "ostentatious", "portend", "pretend", "pretentious", "standard", "tendency", "tender", "tense", "tension", "tent"]
+    },
+    "teneo": {
+      "meaning": "to hold",
+      "derivatives": ["abstain", "appertain", "contain", "content", "continent", "continue", "countenance", "detain", "entertain", "impertinent", "obtain", "pertinent", "rein", "retain", "retinue", "sustain", "tenacious", "tenant", "tenement", "tennis", "tenor", "tenure"]
+    },
+    "tener": {
+      "meaning": "tender",
+      "derivatives": ["tender"]
+    },
+    "tenuis": {
+      "meaning": "slender",
+      "derivatives": ["attenuate", "extenuate"]
+    },
+    "tepeo": {
+      "meaning": "to be warm",
+      "derivatives": ["tepid"]
+    },
+    "tergeo": {
+      "meaning": "to rub",
+      "derivatives": ["terse"]
+    },
+    "termes": {
+      "meaning": "woodworm",
+      "derivatives": ["termite"]
+    },
+    "terminus": {
+      "meaning": "end",
+      "derivatives": ["determine", "exterminate", "indeterminate", "term", "terminal", "terminate", "terminology"]
+    },
+    "tero": {
+      "meaning": "to rub",
+      "derivatives": ["contrite", "detriment"]
+    },
+    "terra": {
+      "meaning": "earth",
+      "derivatives": ["inter", "terrace", "terrestrial", "terrier", "territory"]
+    },
+    "terreo": {
+      "meaning": "to frighten",
+      "derivatives": ["deter", "terrible", "terrorize"]
+    },
+    "testa": {
+      "meaning": "brick",
+      "derivatives": ["test", "testy", "tete-a-tete"]
+    },
+    "testis": {
+      "meaning": "witness",
+      "derivatives": ["attest", "contest", "detest", "protest", "protestant", "testament", "testimony"]
+    },
+    "texo": {
+      "meaning": "to weave",
+      "derivatives": ["context", "pretext", "subtle", "text", "textile", "textual", "texture", "tiller", "tissue", "toilet"]
+    },
+    "timeo": {
+      "meaning": "to fear",
+      "derivatives": ["intimidate", "timid", "timorous"]
+    },
+    "tingo": {
+      "meaning": "to moisten",
+      "derivatives": ["stain", "taint", "tinge", "tint"]
+    },
+    "titio": {
+      "meaning": "firebrand",
+      "derivatives": ["entice"]
+    },
+    "titulus": {
+      "meaning": "title",
+      "derivatives": ["title", "tittle", "titular"]
+    },
+    "tollo": {
+      "meaning": "to raise",
+      "derivatives": ["extol", "tolerate"]
+    },
+    "tono": {
+      "meaning": "to thunder",
+      "derivatives": ["astonish", "astound", "detonation", "stun", "tornado"]
+    },
+    "tonsillae": {
+      "meaning": "tonsil",
+      "derivatives": ["tonsil"]
+    },
+    "torpeo": {
+      "meaning": "to be stiff",
+      "derivatives": ["torpedo", "torpid"]
+    },
+    "torqueo": {
+      "meaning": "to twist",
+      "derivatives": ["contortion", "distort", "extort", "retort", "torch", "torment", "torture"]
+    },
+    "torero": {
+      "meaning": "to scorch",
+      "derivatives": ["toast", "torrent", "torrid"]
+    },
+    "totus": {
+      "meaning": "whole",
+      "derivatives": ["total"]
+    },
+    "trabs": {
+      "meaning": "beam",
+      "derivatives": ["architrave"]
+    },
+    "traho": {
+      "meaning": "to drag",
+      "derivatives": ["abstract", "attract", "contract", "detract", "distract", "distraught", "entreat", "extract", "portrait", "protract", "retreat", "subtract", "trace", "traction", "tractor", "train", "trait", "treat"]
+    },
+    "tranquillus": {
+      "meaning": "quiet",
+      "derivatives": ["tranquil"]
+    },
+    "transtrum": {
+      "meaning": "transom",
+      "derivatives": ["transom", "trestle"]
+    },
+    "tremo": {
+      "meaning": "to tremble",
+      "derivatives": ["tremble", "tremendous", "tremulous"]
+    },
+    "trepidus": {
+      "meaning": "nervous",
+      "derivatives": ["intrepid", "trepidation"]
+    },
+    "tres": {
+      "meaning": "three",
+      "derivatives": ["tertiary", "treble"]
+    },
+    "tribus": {
+      "meaning": "tribe",
+      "derivatives": ["attribute", "contribute", "distribute", "retribution", "tribe", "tribune", "tributary", "tribute"]
+    },
+    "tricae": {
+      "meaning": "trifles",
+      "derivatives": ["extricate", "intricate", "intrigue"]
+    },
+    "triumphus": {
+      "meaning": "triumph",
+      "derivatives": ["triumph"]
+    },
+    "trua": {
+      "meaning": "ladle",
+      "derivatives": ["trowel"]
+    },
+    "trudo": {
+      "meaning": "to thrust",
+      "derivatives": ["abstruse", "intrusive", "obtrusive", "protrude"]
+    },
+    "truncus": {
+      "meaning": "tree trunk",
+      "derivatives": ["trench", "trenchant", "truncheon", "trunk"]
+    },
+    "trux": {
+      "meaning": "wild",
+      "derivatives": ["truculent"]
+    },
+    "tuber": {
+      "meaning": "hump",
+      "derivatives": ["protuberance", "truffle", "tubercular", "tuberculosis"]
+    },
+    "tubus": {
+      "meaning": "tube",
+      "derivatives": ["tube", "tubular"]
+    },
+    "tueor": {
+      "meaning": "to behold",
+      "derivatives": ["intuition", "tuition", "tutelage"]
+    },
+    "tumeo": {
+      "meaning": "to be swollen",
+      "derivatives": ["tumid", "tumor"]
+    },
+    "tumultus": {
+      "meaning": "uproar",
+      "derivatives": ["tumult"]
+    },
+    "tundo": {
+      "meaning": "to beat",
+      "derivatives": ["obtuse", "toil"]
+    },
+    "tunica": {
+      "meaning": "tunic",
+      "derivatives": ["tunic"]
+    },
+    "turba": {
+      "meaning": "crowd",
+      "derivatives": ["disturb", "imperturbable", "trouble", "turbid", "turbine", "turbulence"]
+    },
+    "turgeo": {
+      "meaning": "to be swollen",
+      "derivatives": ["turgid"]
+    },
+    "turpis": {
+      "meaning": "shameful",
+      "derivatives": ["turpitude"]
+    },
+    "uber": {
+      "meaning": "udder",
+      "derivatives": ["exuberant"]
+    },
+    "ubique": {
+      "meaning": "everywhere",
+      "derivatives": ["ubiquitous"]
+    },
+    "ulcus": {
+      "meaning": "sore",
+      "derivatives": ["ulcer"]
+    },
+    "ultra": {
+      "meaning": "beyond",
+      "derivatives": ["outrage", "ultimate"]
+    },
+    "umbra": {
+      "meaning": "ghost",
+      "derivatives": ["somber", "umbrage", "umbrella"]
+    },
+    "uncia": {
+      "meaning": "a twelfth part",
+      "derivatives": ["inch", "ounce"]
+    },
+    "unda": {
+      "meaning": "wave",
+      "derivatives": ["abundance", "inundate", "redundant", "surround", "undulate"]
+    },
+    "unguo": {
+      "meaning": "to anoint",
+      "derivatives": ["anoint", "ointment", "unction", "unguent"]
+    },
+    "unus": {
+      "meaning": "one",
+      "derivatives": ["onion", "union", "unique", "unison", "unit", "unite"]
+    },
+    "upupa": {
+      "meaning": "hoopoe",
+      "derivatives": ["dupe"]
+    },
+    "urbs": {
+      "meaning": "city",
+      "derivatives": ["suburb", "urban"]
+    },
+    "urgeo": {
+      "meaning": "to press",
+      "derivatives": ["urge"]
+    },
+    "urina": {
+      "meaning": "urine",
+      "derivatives": ["urinal", "urine"]
+    },
+    "urna": {
+      "meaning": "urn",
+      "derivatives": ["urn"]
+    },
+    "uro": {
+      "meaning": "to burn",
+      "derivatives": ["combustion"]
+    },
+    "utor": {
+      "meaning": "to use",
+      "derivatives": ["abuse", "peruse", "use", "usual", "usury", "utensil", "utility", "utilize"]
+    },
+    "vacca": {
+      "meaning": "cow",
+      "derivatives": ["vaccinate", "vaccine"]
+    },
+    "vacillo": {
+      "meaning": "to waver",
+      "derivatives": ["vacillate"]
+    },
+    "vaco": {
+      "meaning": "to be empty",
+      "derivatives": ["avoid", "evacuate", "vacant", "vacate", "vacation", "vacuity", "void"]
+    },
+    "vado": {
+      "meaning": "to go",
+      "derivatives": ["evade", "invade", "pervade"]
+    },
+    "vagina": {
+      "meaning": "sheath",
+      "derivatives": ["vanilla"]
+    },
+    "vagor": {
+      "meaning": "to wander",
+      "derivatives": ["vagabond", "vague"]
+    },
+    "valeo": {
+      "meaning": "to be strong",
+      "derivatives": ["avail", "available", "convalescent", "evaluate", "prevail", "prevalent", "valence", "valiant", "valid", "valor", "value"]
+    },
+    "vallis": {
+      "meaning": "valley",
+      "derivatives": ["vail", "vale", "valley"]
+    },
+    "vallum": {
+      "meaning": "wall",
+      "derivatives": ["interval", "wall"]
+    },
+    "valva": {
+      "meaning": "double door",
+      "derivatives": ["valve"]
+    },
+    "vannus": {
+      "meaning": "winnowing basket",
+      "derivatives": ["fan"]
+    },
+    "vanus": {
+      "meaning": "empty",
+      "derivatives": ["evanescent", "vain", "vanish", "vaunt"]
+    },
+    "vapidus": {
+      "meaning": "flat",
+      "derivatives": ["fade", "vapid"]
+    },
+    "vapor": {
+      "meaning": "steam",
+      "derivatives": ["evaporate", "vaporize"]
+    },
+    "varius": {
+      "meaning": "diverse",
+      "derivatives": ["variety", "vary"]
+    },
+    "varus": {
+      "meaning": "bow-legged",
+      "derivatives": ["prevaricate"]
+    },
+    "vastus": {
+      "meaning": "empty",
+      "derivatives": ["devastate", "vast"]
+    },
+    "vas": {
+      "meaning": "vessel",
+      "derivatives": ["vascular", "vase", "vessel"]
+    },
+    "vegeo": {
+      "meaning": "to be alive",
+      "derivatives": ["vegetable", "vegetation"]
+    },
+    "vehemens": {
+      "meaning": "violent",
+      "derivatives": ["vehement"]
+    },
+    "veho": {
+      "meaning": "to carry",
+      "derivatives": ["invective", "inveigh", "vehicle"]
+    },
+    "vello": {
+      "meaning": "to wish",
+      "derivatives": ["convulse", "revulsion"]
+    },
+    "velox": {
+      "meaning": "swift",
+      "derivatives": ["velocity"]
+    },
+    "velum": {
+      "meaning": "sail",
+      "derivatives": ["reveal", "revelation", "veil"]
+    },
+    "vena": {
+      "meaning": "vein",
+      "derivatives": ["vein"]
+    },
+    "venenum": {
+      "meaning": "poison",
+      "derivatives": ["venom"]
+    },
+    "venia": {
+      "meaning": "indulgence",
+      "derivatives": ["venial"]
+    },
+    "venio": {
+      "meaning": "to come",
+      "derivatives": ["avenue", "convene", "convent", "convention", "covenant", "event", "intervene", "invent", "inventory", "parvenu", "prevent", "revenue", "souvenir", "venture"]
+    },
+    "venor": {
+      "meaning": "to hunt",
+      "derivatives": ["venison"]
+    },
+    "venter": {
+      "meaning": "stomach",
+      "derivatives": ["ventral", "ventricle"]
+    },
+    "ventus": {
+      "meaning": "wind",
+      "derivatives": ["vent"]
+    },
+    "venum": {
+      "meaning": "for sale",
+      "derivatives": ["venal", "vendor"]
+    },
+    "Venus": {
+      "meaning": "Venus",
+      "derivatives": ["venerate", "venereal"]
+    },
+    "ver": {
+      "meaning": "spring",
+      "derivatives": ["vernal"]
+    },
+    "verbero": {
+      "meaning": "to beat",
+      "derivatives": ["reverberate"]
+    },
+    "verbum": {
+      "meaning": "word",
+      "derivatives": ["verb", "verbiage", "verbose"]
+    },
+    "veredus": {
+      "meaning": "post horse",
+      "derivatives": ["palfrey"]
+    },
+    "vereor": {
+      "meaning": "to fear",
+      "derivatives": ["revere", "reverend"]
+    },
+    "vergo": {
+      "meaning": "to bend",
+      "derivatives": ["converge", "diverge"]
+    },
+    "vermis": {
+      "meaning": "worm",
+      "derivatives": ["vermilion", "vermin"]
+    },
+    "verna": {
+      "meaning": "home-born slave",
+      "derivatives": ["vernacular"]
+    },
+    "verto": {
+      "meaning": "to turn",
+      "derivatives": ["adverse", "advertise", "avert", "controversy", "converse", "convert", "divert", "divorce", "inadvertently", "introvert", "invert", "perverse", "prose", "reverse", "subvert", "suzerain", "traverse", "varsity", "versatile", "verse", "version", "vertebrate", "vertical"]
+    },
+    "verus": {
+      "meaning": "true",
+      "derivatives": ["aver", "veracity", "veritable", "verity", "very"]
+    },
+    "vesper": {
+      "meaning": "evening",
+      "derivatives": ["vespers"]
+    },
+    "Vesta": {
+      "meaning": "Vesta",
+      "derivatives": ["vestal"]
+    },
+    "vestibulum": {
+      "meaning": "vestibule",
+      "derivatives": ["vestibule"]
+    },
+    "vestigo": {
+      "meaning": "to search",
+      "derivatives": ["investigate", "vestige"]
+    },
+    "vestis": {
+      "meaning": "garment",
+      "derivatives": ["divest", "invest", "travesty", "vested", "vestment", "vesture"]
+    },
+    "vetus": {
+      "meaning": "old",
+      "derivatives": ["inveterate", "veteran", "veterinary"]
+    },
+    "vexo": {
+      "meaning": "to shake",
+      "derivatives": ["vex", "vexation"]
+    },
+    "via": {
+      "meaning": "road",
+      "derivatives": ["convey", "conveyor", "convoy", "deviation", "devious", "envoy", "impervious", "obvious", "previous", "voyage"]
+    },
+    "vibro": {
+      "meaning": "to shake",
+      "derivatives": ["vibrant", "vibrate"]
+    },
+    "vicia": {
+      "meaning": "vetch",
+      "derivatives": ["etch"]
+    },
+    "vicis": {
+      "meaning": "change",
+      "derivatives": ["vicar", "vice-president", "vicissitude"]
+    },
+    "victima": {
+      "meaning": "victim",
+      "derivatives": ["victim"]
+    },
+    "vicus": {
+      "meaning": "village",
+      "derivatives": ["vicinity"]
+    },
+    "video": {
+      "meaning": "to see",
+      "derivatives": ["advise", "envy", "evidence", "improvise", "preview", "provide", "providence", "provision", "proviso", "prudent", "purveyor", "revise", "survey", "view", "visage", "visible", "vision", "visit", "visor", "vista"]
+    },
+    "vigeo": {
+      "meaning": "to flourish",
+      "derivatives": ["invigorate", "vigorous"]
+    },
+    "vigil": {
+      "meaning": "watchman",
+      "derivatives": ["surveillance", "vigilant"]
+    },
+    "vilis": {
+      "meaning": "cheap",
+      "derivatives": ["vile"]
+    },
+    "villa": {
+      "meaning": "house",
+      "derivatives": ["village", "villain"]
+    },
+    "villus": {
+      "meaning": "hair",
+      "derivatives": ["velour", "velvet"]
+    },
+    "vinco": {
+      "meaning": "to conquer",
+      "derivatives": ["convict", "convince", "evince", "invincible", "vanquish", "victory"]
+    },
+    "vindex": {
+      "meaning": "claimant",
+      "derivatives": ["avenge", "revenge", "vengeance", "vindicate", "vindictive"]
+    },
+    "vinum": {
+      "meaning": "wine",
+      "derivatives": ["vine", "vineyard", "wine"]
+    },
+    "viola": {
+      "meaning": "violet",
+      "derivatives": ["violet"]
+    },
+    "vipera": {
+      "meaning": "viper",
+      "derivatives": ["viper"]
+    },
+    "vir": {
+      "meaning": "man",
+      "derivatives": ["virile", "virtual", "virtue", "virtuoso"]
+    },
+    "vireo": {
+      "meaning": "to be green",
+      "derivatives": ["verdant", "verdure"]
+    },
+    "virga": {
+      "meaning": "twig",
+      "derivatives": ["verge"]
+    },
+    "virgo": {
+      "meaning": "maiden",
+      "derivatives": ["virgin"]
+    },
+    "virus": {
+      "meaning": "slime",
+      "derivatives": ["virulent"]
+    },
+    "vis": {
+      "meaning": "force",
+      "derivatives": ["violate", "violent"]
+    },
+    "viscum": {
+      "meaning": "mistletoe",
+      "derivatives": ["viscous"]
+    },
+    "vita": {
+      "meaning": "life",
+      "derivatives": ["vital", "vitamin"]
+    },
+    "vitis": {
+      "meaning": "vine",
+      "derivatives": ["vice", "vise"]
+    },
+    "vitium": {
+      "meaning": "vice",
+      "derivatives": ["vice", "vicious", "vitiate"]
+    },
+    "vito": {
+      "meaning": "to shun",
+      "derivatives": ["inevitable"]
+    },
+    "vitrum": {
+      "meaning": "glass",
+      "derivatives": ["vitreous", "vitriol"]
+    },
+    "vitulus": {
+      "meaning": "bull calf",
+      "derivatives": ["veal", "vellum"]
+    },
+    "vivo": {
+      "meaning": "to live",
+      "derivatives": ["convivial", "revive", "survive", "viand", "victual", "vivacious", "vive", "vivid"]
+    },
+    "voco": {
+      "meaning": "to call",
+      "derivatives": ["advocate", "avouch", "avow", "convoke", "evoke", "invoke", "irrevocable", "provocative", "revoke", "vocabulary", "vocal", "vocation", "voice", "vouch", "vowel"]
+    },
+    "volo (fly)": {
+      "meaning": "to fly",
+      "derivatives": ["volatile", "volley"]
+    },
+    "volo (wish)": {
+      "meaning": "to wish",
+      "derivatives": ["volition", "voluntary", "volunteer"]
+    },
+    "voluptas": {
+      "meaning": "pleasure",
+      "derivatives": ["voluptuous"]
+    },
+    "volvo": {
+      "meaning": "to roll",
+      "derivatives": ["devolve", "evolve", "involve", "revolt", "revolution", "revolver", "vault", "voluble", "volume", "voluminous"]
+    },
+    "vomo": {
+      "meaning": "to vomit",
+      "derivatives": ["vomit"]
+    },
+    "voro": {
+      "meaning": "to devour",
+      "derivatives": ["devour", "voracious"]
+    },
+    "voveo": {
+      "meaning": "to vow",
+      "derivatives": ["devote", "devout", "votary", "voter", "votive", "vow"]
+    },
+    "Vulcanus": {
+      "meaning": "Vulcan",
+      "derivatives": ["volcano", "vulcanize"]
+    },
+    "vulgus": {
+      "meaning": "crowd",
+      "derivatives": ["divulge", "vulgar"]
+    },
+    "vulnus": {
+      "meaning": "wound",
+      "derivatives": ["vulnerable"]
+    },
+    "vultur": {
+      "meaning": "vulture",
+      "derivatives": ["vulture"]
+    }
 }
